@@ -1,0 +1,176 @@
+﻿Name,Position,Duration,1. Baserunning Situation,1. Date,1. Pitchers Name,1. Pitchers Side,2. Hitters Name,2. Hitters Side,3. Pitch Type,4. Pitch Location,5. Catcher Throw Down,5. Game Pitch Result,6. Pitch Count,6. Previous Pitch Count,8. Hit Location,8. Hit Results,8. RBI,8. Well Hit,9. Outs,Hitting Position,Period,Team 1. Pitchers Name,Team 2. Hitters Name,XY Hit Location,XY Pitch Location
+PITCH (1),0,12930,Bases Empty,3/16/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Curve Ball,UPM,,Ball,2--0,1--0,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,214;76
+PITCH (2),12946,9074,Bases Empty,3/16/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Rise Ball,LEFTM,,Ball,3--0,2--0,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,90;168
+PITCH (3),22037,15310,Bases Empty,3/16/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Fastball,UPL,,Strike Called,3--1,3--0,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,115;121
+PITCH (4),37364,11874,Bases Empty,3/16/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Drop Ball,UPM,,Ball,Walk,3--1,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,406;90
+PITCH (5),49254,10840,R1,3/16/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Fastball,UPM,,WP-PB,1--0,0--0,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,166;56
+PITCH (6),60111,14228,R2,3/16/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Fastball,UPL,,Ball,2--0,1--0,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,162;136
+PITCH (7),74356,8328,R2,3/16/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Fastball,UPM,,Ball,3--0,2--0,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,254;65
+PITCH (8),82700,13919,R2,3/16/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Fastball,UPM,,Strike Called,3--1,3--0,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,212;199
+PITCH (9),96636,12262,R2,3/16/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Curve Ball,LEFTM,,Ball,Walk,3--1,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,77;251
+PITCH (10),108914,10236,R12,3/16/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Curve Ball,LEFTM,,WP-PB,1--0,0--0,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,87;346
+PITCH (11),119168,9279,R23,3/16/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Drop Ball,DOWNM,,Ball,2--0,1--0,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,120;419
+PITCH (12),128463,14327,R23,3/16/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Curve Ball,LEFTM,,Ball,3--0,2--0,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,66;134
+PITCH (13),142807,11265,NO CHANGE,3/16/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Rise Ball,UPM,,Ball,Walk,3--0,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,319;92
+PITCH (14),154089,26103,R123,3/16/2019,21 Sydney Nester,R-Hand,14 Emma Strouth,R-Hand,Fastball,MM,,Ball in Play,,0--0,Home Run CF2,Home Run,4 RBI,Well Hit Ball,0 Out,,1. Inning,NC State,Virginia Tech,,215;220
+PITCH (15),180208,9080,,3/16/2019,21 Sydney Nester,R-Hand,8 Kelsey Bennett,R-Hand,Curve Ball,UPR,,Strike Called,0--1,0--0,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,371;176
+PITCH (16),189305,13714,,3/16/2019,21 Sydney Nester,R-Hand,8 Kelsey Bennett,R-Hand,Rise Ball,RIGHTM,,Ball,1--1,0--1,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,456;232
+PITCH (17),203035,10432,,3/16/2019,21 Sydney Nester,R-Hand,8 Kelsey Bennett,R-Hand,Screw Ball,RIGHTM,,Ball,2--1,1--1,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,436;295
+PITCH (18),213483,9923,,3/16/2019,21 Sydney Nester,R-Hand,8 Kelsey Bennett,R-Hand,Screw Ball,ML,,Strike Called,2--2,2--1,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,105;290
+PITCH (19),223423,17353,,3/16/2019,21 Sydney Nester,R-Hand,8 Kelsey Bennett,R-Hand,Change Up,MM,,Ball in Play,,2--2,DLCF,Single,,,0 Out,,1. Inning,NC State,Virginia Tech,154;65,291;242
+PITCH (20),240793,11043,R1,3/16/2019,21 Sydney Nester,R-Hand,2 Jayme Bailey,R-Hand,Drop Ball,DOWNM,,Ball,1--0,0--0,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,369;485
+PITCH (21),251852,13169,R1,3/16/2019,21 Sydney Nester,R-Hand,3 Jayme Bailey,R-Hand,Drop Ball,RIGHTM,,Ball,2--0,1--0,,,,,0 Out,,1. Inning,NC State,Virginia Tech,,410;171
+PITCH (22),265038,19378,R1,3/16/2019,21 Sydney Nester,R-Hand,4 Jayme Bailey,R-Hand,Rise Ball,LM,,Ball in Play,,2--0,SS3,Fielders Choice,,,0 Out,,1. Inning,NC State,Virginia Tech,205;220,212;386
+PITCH (23),284433,11145,,3/16/2019,21 Sydney Nester,R-Hand,6 Lauren Duff,R-Hand,Drop Ball,UPM,,Ball,1--0,0--0,,,,,1 Out,,1. Inning,NC State,Virginia Tech,,363;82
+PITCH (24),295595,10346,,3/16/2019,21 Sydney Nester,R-Hand,6 Lauren Duff,R-Hand,Screw Ball,LEFTM,,Ball,2--0,1--0,,,,,1 Out,,1. Inning,NC State,Virginia Tech,,89;385
+PITCH (25),305958,10788,,3/16/2019,21 Sydney Nester,R-Hand,6 Lauren Duff,R-Hand,Drop Ball,LR,,Strike Called,2--1,2--0,,,,,1 Out,,1. Inning,NC State,Virginia Tech,,393;332
+PITCH (26),316762,10413,,3/16/2019,21 Sydney Nester,R-Hand,6 Lauren Duff,R-Hand,Screw Ball,MR,,Ball,3--1,2--1,,,,,1 Out,,1. Inning,NC State,Virginia Tech,,306;239
+PITCH (27),327192,9424,,3/16/2019,21 Sydney Nester,R-Hand,6 Lauren Duff,R-Hand,Change Up,RIGHTM,,Foul,3--2,3--1,,,,,1 Out,,1. Inning,NC State,Virginia Tech,,409;194
+PITCH (28),336633,16768,,3/16/2019,21 Sydney Nester,R-Hand,6 Lauren Duff,R-Hand,Drop Ball,LM,,Ball in Play,,3--2,3B3,Fielders Choice,,,1 Out,,1. Inning,NC State,Virginia Tech,204;261,230;323
+PITCH (29),353418,9075,R1,3/16/2019,21 Sydney Nester,R-Hand,18 Mackenzie Lawter,R-Hand,Change Up,LEFTM,,Ball,1--0,0--0,,,,,2 Out,,1. Inning,NC State,Virginia Tech,,81;190
+PITCH (30),362509,22198,R1,3/16/2019,21 Sydney Nester,R-Hand,18 Mackenzie Lawter,R-Hand,Curve Ball,ML,,Ball in Play,,1--0,FBC,Fly Out,,,2 Out,,1. Inning,NC State,Virginia Tech,261;384,187;239
+PITCH (31),384723,11467,Bases Empty,3/16/2019,3 Keely Rochard,R-Hand,3 Sam Russ,L-Hand,Back Curve,UPM,,Ball,1--0,0--0,,,,,0 Out,,1. Inning,Virginia Tech,NC State,,205;56
+PITCH (32),396207,10549,Bases Empty,3/16/2019,3 Keely Rochard,R-Hand,3 Sam Russ,L-Hand,Rise Ball,UPM,,Ball,2--0,1--0,,,,,0 Out,,1. Inning,Virginia Tech,NC State,,185;12
+PITCH (33),406773,13948,Bases Empty,3/16/2019,3 Keely Rochard,R-Hand,3 Sam Russ,L-Hand,Rise Ball,RIGHTM,,Ball,3--0,2--0,,,,,0 Out,Bunt Attempt,1. Inning,Virginia Tech,NC State,,412;132
+PITCH (34),420738,9485,Bases Empty,3/16/2019,3 Keely Rochard,R-Hand,3 Sam Russ,L-Hand,Rise Ball,UPM,,Ball,Walk,3--0,,,,,0 Out,,1. Inning,Virginia Tech,NC State,,98;83
+PITCH (35),430239,10503,R1,3/16/2019,3 Keely Rochard,R-Hand,28 Brigette Nordberg,R-Hand,Curve Ball,UPM,,Ball,1--0,0--0,,,,,0 Out,,1. Inning,Virginia Tech,NC State,,38;86
+PITCH (36),440759,10242,R1,3/16/2019,3 Keely Rochard,R-Hand,28 Brigette Nordberg,R-Hand,Rise Ball,UPM,,Ball,2--0,1--0,,,,,0 Out,,1. Inning,Virginia Tech,NC State,,402;87
+PITCH (37),451018,8855,R1,3/16/2019,3 Keely Rochard,R-Hand,28 Brigette Nordberg,R-Hand,Screw Ball,DOWNM,,Ball,3--0,2--0,,,,,0 Out,,1. Inning,Virginia Tech,NC State,,425;440
+PITCH (38),459890,11503,R1,3/16/2019,3 Keely Rochard,R-Hand,28 Brigette Nordberg,R-Hand,Change Up,UPM,,Ball,Walk,3--0,,,,,0 Out,,1. Inning,Virginia Tech,NC State,,411;63
+PITCH (39),471409,10204,R12,3/16/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Rise Ball,LL,,Strike Called,0--1,0--0,,,,,0 Out,,1. Inning,Virginia Tech,NC State,,198;309
+PITCH (40),481630,10739,R12,3/16/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Curve Ball,LEFTM,,Ball,1--1,0--1,,,,,0 Out,,1. Inning,Virginia Tech,NC State,,61;370
+PITCH (41),492386,10832,R12,3/16/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Curve Ball,RIGHTM,,Ball,2--1,1--1,,,,,0 Out,,1. Inning,Virginia Tech,NC State,,456;391
+PITCH (42),503235,20912,R12,3/16/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Drop Ball,MM,,Ball in Play,,2--1,SS3,Ground Out,,,0 Out,,1. Inning,Virginia Tech,NC State,204;222,225;287
+PITCH (43),524164,12760,R3,3/16/2019,25 Carrie Eberle,R-Hand,34 Skylar Johnston,R-Hand,Drop Ball,ML,,Foul,0--1,0--0,,,,,2 Out,,1. Inning,Virginia Tech,NC State,,127;255
+PITCH (44),536941,13320,R3,3/16/2019,25 Carrie Eberle,R-Hand,34 Skylar Johnston,R-Hand,Curve Ball,LEFTM,,Ball,1--1,0--1,,,,,2 Out,,1. Inning,Virginia Tech,NC State,,67;322
+PITCH (45),550278,16480,NO CHANGE,3/16/2019,25 Carrie Eberle,R-Hand,34 Skylar Johnston,R-Hand,Curve Ball,LM,,Ball in Play,,1--1,3B3,Ground Out,,,2 Out,,1. Inning,Virginia Tech,NC State,200;256,294;313
+PITCH (46),566774,8760,Bases Empty,3/16/2019,21 Sydney Nester,R-Hand,29 Maddi Banks,L-Hand,Screw Ball,UPM,,Ball,1--0,0--0,,,,,0 Out,,2. Inning,NC State,Virginia Tech,,126;49
+PITCH (47),575551,7708,Bases Empty,3/16/2019,21 Sydney Nester,R-Hand,29 Maddi Banks,L-Hand,Change Up,LR,,Foul,1--1,1--0,,,,,0 Out,,2. Inning,NC State,Virginia Tech,,332;402
+PITCH (48),583276,22321,Bases Empty,3/16/2019,21 Sydney Nester,R-Hand,29 Maddi Banks,L-Hand,Curve Ball,UPR,,Ball in Play,,1--1,Home Run LCF,Home Run,,Well Hit Ball,0 Out,Slap Attempt,2. Inning,NC State,Virginia Tech,,318;188
+PITCH (49),605613,16129,,3/16/2019,21 Sydney Nester,R-Hand,9 Al Velazquez,L-Hand,Screw Ball,DOWNM,,Strike Swinging,0--1,0--0,,,,,0 Out,Bunt Attempt,2. Inning,NC State,Virginia Tech,,164;435
+PITCH (50),621759,15705,,3/16/2019,21 Sydney Nester,R-Hand,9 Al Velazquez,L-Hand,Curve Ball,MR,,Foul,0--2,0--1,,,,,0 Out,Slap Attempt,2. Inning,NC State,Virginia Tech,,374;225
+PITCH (51),637481,10362,,3/16/2019,21 Sydney Nester,R-Hand,9 Al Velazquez,L-Hand,Screw Ball,LEFTM,,Ball,1--2,0--2,,,,,0 Out,,2. Inning,NC State,Virginia Tech,,75;312
+PITCH (52),647859,20271,,3/16/2019,21 Sydney Nester,R-Hand,9 Al Velazquez,L-Hand,Change Up,MR,,Ball in Play,,1--2,SS3,Single,,,0 Out,,2. Inning,NC State,Virginia Tech,186;213,371;246
+PITCH (53),668146,10059,R1,3/16/2019,21 Sydney Nester,R-Hand,4 Darby Trull,L-Hand,Rise Ball,RIGHTM,,Ball,1--0,0--0,,,,,,,2. Inning,NC State,Virginia Tech,,415;273
+PITCH (54),678222,21229,CHANGE PITCHER,3/16/2019,21 Sydney Nester,R-Hand,4 Darby Trull,L-Hand,Back Curve,MM,,Ball in Play,,1--0,Home Run CF2,Home Run,2 RBI,Well Hit Ball,,,2. Inning,NC State,Virginia Tech,,278;235
+PITCH (55),699468,8947,,3/16/2019,18 Kama Woodall,R-Hand,13 Caitlyn Nolan,R-Hand,Curve Ball,RIGHTM,,Ball,1--0,0--0,,,,,,,2. Inning,NC State,Virginia Tech,,407;273
+PITCH (56),708431,10488,,3/16/2019,18 Kama Woodall,R-Hand,13 Caitlyn Nolan,R-Hand,Screw Ball,LEFTM,,Ball,2--0,1--0,,,,,,,2. Inning,NC State,Virginia Tech,,64;226
+PITCH (57),718935,12276,,3/16/2019,18 Kama Woodall,R-Hand,13 Caitlyn Nolan,R-Hand,Curve Ball,MR,,Strike Called,2--1,2--0,,,,,,,2. Inning,NC State,Virginia Tech,,387;293
+PITCH (58),731228,18715,,3/16/2019,18 Kama Woodall,R-Hand,13 Caitlyn Nolan,R-Hand,Screw Ball,MR,,Ball in Play,,2--1,3B2,Ground Out,,,,,2. Inning,NC State,Virginia Tech,191;269,388;217
+PITCH (59),749960,10200,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,14 Emma Strouth,R-Hand,Screw Ball,RIGHTM,,Ball,1--0,0--0,,,,,1 Out,,2. Inning,NC State,Virginia Tech,,408;297
+PITCH (60),760176,9970,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,14 Emma Strouth,R-Hand,Fastball,LEFTM,,Ball,2--0,1--0,,,,,1 Out,,2. Inning,NC State,Virginia Tech,,92;232
+PITCH (61),770163,9923,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,14 Emma Strouth,R-Hand,Curve Ball,RIGHTM,,Foul,2--1,2--0,,,,,1 Out,,2. Inning,NC State,Virginia Tech,,405;205
+PITCH (62),780103,15454,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,14 Emma Strouth,R-Hand,Screw Ball,MR,,Ball in Play,,2--1,SS3,Ground Out,,,1 Out,,2. Inning,NC State,Virginia Tech,197;243,335;299
+PITCH (63),795573,13883,,3/16/2019,18 Kama Woodall,R-Hand,8 Kelsey Bennett,R-Hand,Screw Ball,RIGHTM,,Ball,1--0,0--0,,,,,2 Out,,2. Inning,NC State,Virginia Tech,,430;144
+PITCH (64),809473,16175,,3/16/2019,18 Kama Woodall,R-Hand,8 Kelsey Bennett,R-Hand,Rise Ball,LR,,Ball in Play,,1--0,PF,Single,,,2 Out,,2. Inning,NC State,Virginia Tech,229;302,334;309
+PITCH (65),825665,12442,R1,3/16/2019,18 Kama Woodall,R-Hand,2 Jayme Bailey,R-Hand,Change Up,MR,,Strike Called,0--1,0--0,,,,,,,2. Inning,NC State,Virginia Tech,,394;287
+PITCH (66),838124,7992,R1,3/16/2019,18 Kama Woodall,R-Hand,2 Jayme Bailey,R-Hand,Screw Ball,LEFTM,,Ball,1--1,0--1,,,,,,,2. Inning,NC State,Virginia Tech,,85;182
+PITCH (67),846132,9599,R1,3/16/2019,18 Kama Woodall,R-Hand,2 Jayme Bailey,R-Hand,Curve Ball,RIGHTM,,Ball,2--1,1--1,,,,,,,2. Inning,NC State,Virginia Tech,,464;371
+PITCH (68),855747,11006,R1,3/16/2019,18 Kama Woodall,R-Hand,2 Jayme Bailey,R-Hand,Drop Ball,UPM,,Ball,3--1,2--1,,,,,,,2. Inning,NC State,Virginia Tech,,251;60
+PITCH (69),866770,17916,R1,3/16/2019,18 Kama Woodall,R-Hand,2 Jayme Bailey,R-Hand,Change Up,ML,,Ball in Play,,3--1,Home Run RCF,Home Run,2 RBI,Well Hit Ball,,,2. Inning,NC State,Virginia Tech,,125;235
+PITCH (70),884702,13910,,3/16/2019,18 Kama Woodall,R-Hand,6 Lauren Duff,R-Hand,Curve Ball,MR,,Ball in Play,,0--0,1B2,Fly Out,,,,,2. Inning,NC State,Virginia Tech,292;285,394;217
+PITCH (71),898629,10968,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Screw Ball,LEFTM,,Ball,1--0,0--0,,,,,0 Out,,2. Inning,Virginia Tech,NC State,,95;325
+PITCH (72),909613,11867,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Curve Ball,LEFTM,,Ball,2--0,1--0,,,,,0 Out,,2. Inning,Virginia Tech,NC State,,98;118
+PITCH (73),921497,24280,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Rise Ball,UPM,,Ball in Play,,2--0,DRCF,Double,,,0 Out,,2. Inning,Virginia Tech,NC State,351;83,235;200
+PITCH (74),945794,17051,R3,3/16/2019,25 Carrie Eberle,R-Hand,2 Jessica Moore,R-Hand,Drop Ball,MM,,Ball in Play,,0--0,2B3,Ground Out,1 RBI,,,,2. Inning,Virginia Tech,NC State,294;219,216;253
+PITCH (75),962861,10036,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,12 Natalie Jones,R-Hand,Drop Ball,LEFTM,,Ball,1--0,0--0,,,,,1 Out,,2. Inning,Virginia Tech,NC State,,48;222
+PITCH (76),972914,11665,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,12 Natalie Jones,R-Hand,Curve Ball,ML,,Foul,1--1,1--0,,,,,1 Out,,2. Inning,Virginia Tech,NC State,,144;226
+PITCH (77),984595,10996,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,12 Natalie Jones,R-Hand,Rise Ball,LM,,Strike Swinging,1--2,1--1,,,,,1 Out,,2. Inning,Virginia Tech,NC State,,243;372
+PITCH (78),995607,11374,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,12 Natalie Jones,R-Hand,Drop Ball,DOWNM,,Strike Swinging,Strikeout,1--2,,,,,1 Out,,2. Inning,Virginia Tech,NC State,,398;430
+PITCH (79),1006998,10083,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Drop Ball,DOWNM,,Ball,1--0,0--0,,,,,2 Out,,2. Inning,Virginia Tech,NC State,,170;435
+PITCH (80),1017098,13295,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Drop Ball,MR,,Foul,1--1,1--0,,,,,2 Out,,2. Inning,Virginia Tech,NC State,,303;219
+PITCH (81),1030410,10792,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Screw Ball,LM,,Strike Swinging,1--2,1--1,,,,,2 Out,,2. Inning,Virginia Tech,NC State,,269;396
+PITCH (82),1041219,9682,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Drop Ball,UPM,,Ball,2--2,1--2,,,,,2 Out,,2. Inning,Virginia Tech,NC State,,226;48
+PITCH (83),1050918,9533,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Rise Ball,LR,,Foul,2--2,2--2,,,,,2 Out,,2. Inning,Virginia Tech,NC State,,374;362
+PITCH (84),1060468,9376,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Drop Ball,LEFTM,,Ball,3--2,2--2,,,,,2 Out,,2. Inning,Virginia Tech,NC State,,31;327
+PITCH (85),1069861,16793,NO CHANGE,3/16/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Curve Ball,LL,,Ball in Play,,3--2,DRF,Fly Out,,,2 Out,,2. Inning,Virginia Tech,NC State,381;128,161;303
+PITCH (86),1086671,10606,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,18 Mackenzie Lawter,R-Hand,Screw Ball,UPR,,Strike Called,0--1,0--0,,,,,0 Out,,3. Inning,NC State,Virginia Tech,,387;148
+PITCH (87),1097293,11863,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,18 Mackenzie Lawter,R-Hand,Screw Ball,LR,,Strike Called,0--2,0--1,,,,,0 Out,,3. Inning,NC State,Virginia Tech,,390;349
+PITCH (88),1109173,7940,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,18 Mackenzie Lawter,R-Hand,Change Up,UPM,,Ball,1--2,0--2,,,,,0 Out,,3. Inning,NC State,Virginia Tech,,303;41
+PITCH (89),1117130,9665,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,18 Mackenzie Lawter,R-Hand,Rise Ball,ML,,Strike Swinging,Strikeout,1--2,,,,,0 Out,,3. Inning,NC State,Virginia Tech,,103;288
+PITCH (90),1126812,11996,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,29 Maddi Banks,L-Hand,Drop Ball,DOWNM,,Ball,1--0,0--0,,,,,1 Out,,3. Inning,NC State,Virginia Tech,,468;414
+PITCH (91),1138824,12382,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,29 Maddi Banks,L-Hand,Screw Ball,UPL,,Foul,1--1,1--0,,,,,1 Out,,3. Inning,NC State,Virginia Tech,,130;171
+PITCH (92),1151222,10579,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,29 Maddi Banks,L-Hand,Rise Ball,UPM,,Ball,2--1,1--1,,,,,1 Out,,3. Inning,NC State,Virginia Tech,,327;69
+PITCH (93),1161818,8779,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,29 Maddi Banks,L-Hand,Change Up,MR,,Foul,2--2,2--1,,,,,1 Out,,3. Inning,NC State,Virginia Tech,,325;276
+PITCH (94),1170614,10314,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,29 Maddi Banks,L-Hand,Curve Ball,MR,,Foul,2--2,2--2,,,,,1 Out,,3. Inning,NC State,Virginia Tech,,373;285
+PITCH (95),1180945,8594,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,29 Maddi Banks,L-Hand,Change Up,MR,,Foul,2--2,2--2,,,,,1 Out,,3. Inning,NC State,Virginia Tech,,309;212
+PITCH (96),1189556,8595,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,29 Maddi Banks,L-Hand,Rise Ball,UPL,,Strike Swinging,Strikeout,2--2,,,,,1 Out,,3. Inning,NC State,Virginia Tech,,167;177
+PITCH (97),1198168,12993,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,9 Al Velazquez,L-Hand,Rise Ball,LEFTM,,Ball,1--0,0--0,,,,,2 Out,,3. Inning,NC State,Virginia Tech,,46;211
+PITCH (98),1211177,10352,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,9 Al Velazquez,L-Hand,Curve Ball,UPM,,Ball,2--0,1--0,,,,,2 Out,,3. Inning,NC State,Virginia Tech,,219;65
+PITCH (99),1221546,8787,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,9 Al Velazquez,L-Hand,Change Up,MR,,Strike Swinging,2--1,2--0,,,,,2 Out,,3. Inning,NC State,Virginia Tech,,396;212
+PITCH (100),1230350,9322,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,9 Al Velazquez,L-Hand,Screw Ball,UPR,,Foul,2--2,2--1,,,,,2 Out,,3. Inning,NC State,Virginia Tech,,323;181
+PITCH (101),1239688,11210,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,9 Al Velazquez,L-Hand,Rise Ball,RIGHTM,,Strike Called,Strikeout,2--2,,,,,2 Out,,3. Inning,NC State,Virginia Tech,,402;279
+PITCH (102),1250915,9992,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,5 April Visser,R-Hand,Change Up,UPR,,Strike Called,0--1,0--0,,,,,0 Out,,3. Inning,Virginia Tech,NC State,,300;165
+PITCH (103),1260924,13604,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,5 April Visser,R-Hand,Screw Ball,ML,,Ball in Play,,0--1,2B3,Ground Out,,,0 Out,,3. Inning,Virginia Tech,NC State,288;224,157;280
+PITCH (104),1274544,13773,,3/16/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Fastball,,,Strike Called,0--1,0--0,,,,,1 Out,,3. Inning,Virginia Tech,NC State,,398;362
+PITCH (105),1288334,13801,,3/16/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Change Up,RIGHTM,,Ball,1--1,0--1,,,,,1 Out,,3. Inning,Virginia Tech,NC State,,415;191
+PITCH (106),1302152,21299,,3/16/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Rise Ball,MR,,Ball in Play,,1--1,DLF,Double,,,1 Out,,3. Inning,Virginia Tech,NC State,126;65,383;255
+PITCH (107),1323467,16814,R2,3/16/2019,25 Carrie Eberle,R-Hand,28 Brigette Nordberg,R-Hand,Screw Ball,LM,,Ball in Play,,0--0,1B2,Ground Out,,,,,3. Inning,Virginia Tech,NC State,293;277,210;320
+PITCH (108),1340298,12164,R3,3/16/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Screw Ball,LEFTM,,Ball,1--0,0--0,,,,,2 Out,,3. Inning,Virginia Tech,NC State,,59;308
+PITCH (109),1352478,10159,R3,3/16/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Curve Ball,ML,,Strike Called,1--1,1--0,,,,,2 Out,,3. Inning,Virginia Tech,NC State,,112;213
+PITCH (110),1362653,16151,R3,3/16/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Curve Ball,UPM,,Ball,2--1,1--1,,,,,2 Out,,3. Inning,Virginia Tech,NC State,,242;113
+PITCH (111),1378821,10012,R3,3/16/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Change Up,LEFTM,,Ball,3--1,2--1,,,,,2 Out,,3. Inning,Virginia Tech,NC State,,83;299
+PITCH (112),1388849,16770,R3,3/16/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Curve Ball,MR,,Ball in Play,,3--1,3B3,Ground Out,,,2 Out,,3. Inning,Virginia Tech,NC State,189;264,379;216
+PITCH (113),1405636,11915,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,4 Darby Trull,L-Hand,Screw Ball,RIGHTM,,Ball,1--0,0--0,,,,,0 Out,,4. Inning,NC State,Virginia Tech,,422;298
+PITCH (114),1417567,9174,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,4 Darby Trull,L-Hand,Drop Ball,LR,,Foul,1--1,1--0,,,,,0 Out,,4. Inning,NC State,Virginia Tech,,364;320
+PITCH (115),1426758,13294,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,4 Darby Trull,L-Hand,Fastball,LR,,Ball in Play,,1--1,SS3,Single,,,0 Out,,4. Inning,NC State,Virginia Tech,177;251,374;315
+PITCH (116),1440069,14658,R1,3/16/2019,18 Kama Woodall,R-Hand,13 Caitlyn Nolan,R-Hand,,UPR,,Foul,0--1,0--0,,,,,,,4. Inning,NC State,Virginia Tech,,326;121
+PITCH (117),1454743,10143,R1,3/16/2019,18 Kama Woodall,R-Hand,13 Caitlyn Nolan,R-Hand,Rise Ball,MR,,Foul,0--2,0--1,,,,,,,4. Inning,NC State,Virginia Tech,,393;263
+PITCH (118),1464903,14741,R1,3/16/2019,18 Kama Woodall,R-Hand,13 Caitlyn Nolan,R-Hand,Rise Ball,,Catcher Throw Safe,Ball,1--2,0--2,,,,,,,4. Inning,NC State,Virginia Tech,,323;221
+PITCH (119),1479661,8779,R2,3/16/2019,18 Kama Woodall,R-Hand,13 Caitlyn Nolan,R-Hand,Fastball,DOWNM,,Ball,2--2,1--2,,,,,,,4. Inning,NC State,Virginia Tech,,152;444
+PITCH (120),1488456,8746,R2,3/16/2019,18 Kama Woodall,R-Hand,13 Caitlyn Nolan,R-Hand,Drop Ball,UPM,,Ball,3--2,2--2,,,,,,,4. Inning,NC State,Virginia Tech,,203;58
+PITCH (121),1497218,9507,R2,3/16/2019,18 Kama Woodall,R-Hand,13 Caitlyn Nolan,R-Hand,Change Up,UPM,,Foul,3--2,3--2,,,,,,,4. Inning,NC State,Virginia Tech,,377;84
+PITCH (122),1506742,10864,R2,3/16/2019,18 Kama Woodall,R-Hand,13 Caitlyn Nolan,R-Hand,Rise Ball,UPM,,Ball,Walk,3--2,,,,,,,4. Inning,NC State,Virginia Tech,,134;59
+PITCH (123),1517623,14697,R12,3/16/2019,18 Kama Woodall,R-Hand,14 Emma Strouth,R-Hand,Change Up,MR,,Ball in Play,,0--0,2B3,Fly Out,,,,,4. Inning,NC State,Virginia Tech,289;211,362;233
+PITCH (124),1532337,15107,,3/16/2019,18 Kama Woodall,R-Hand,8 Kelsey Bennett,R-Hand,Screw Ball,MR,,Ball in Play,,0--0,SS3,Fielders Choice,,,1 Out,,4. Inning,NC State,Virginia Tech,212;223,318;254
+PITCH (125),1547461,6273,R13,3/16/2019,18 Kama Woodall,R-Hand,2 Jayme Bailey,R-Hand,Screw Ball,UPM,,Ball,1--0,0--0,,,,,2 Out,,4. Inning,NC State,Virginia Tech,,336;69
+PITCH (126),1553750,15211,R13,3/16/2019,18 Kama Woodall,R-Hand,2 Jayme Bailey,R-Hand,Change Up,UPR,,Ball in Play,,1--0,SLCF,Fly Out,,,2 Out,,4. Inning,NC State,Virginia Tech,129;144,322;185
+PITCH (127),1568978,10398,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,34 Skylar Johnston,R-Hand,Drop Ball,RIGHTM,,Ball,1--0,0--0,,,,,0 Out,,4. Inning,Virginia Tech,NC State,,431;372
+PITCH (128),1579393,15138,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,34 Skylar Johnston,R-Hand,Drop Ball,LM,,Ball in Play,,1--0,3B3,Ground Out,,,0 Out,,4. Inning,Virginia Tech,NC State,209;266,253;361
+PITCH (129),1594548,8536,,3/16/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Screw Ball,DOWNM,,Ball,1--0,0--0,,,,,1 Out,,4. Inning,Virginia Tech,NC State,,120;438
+PITCH (130),1603102,9496,,3/16/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Drop Ball,DOWNM,,Ball,2--0,1--0,,,,,1 Out,,4. Inning,Virginia Tech,NC State,,66;434
+PITCH (131),1612614,9103,,3/16/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Drop Ball,LR,,Strike Swinging,2--1,2--0,,,,,1 Out,,4. Inning,Virginia Tech,NC State,,384;397
+PITCH (132),1621734,11100,,3/16/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Drop Ball,LR,,Foul,2--2,2--1,,,,,1 Out,,4. Inning,Virginia Tech,NC State,,375;376
+PITCH (133),1632850,9574,,3/16/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Screw Ball,LM,,Foul,2--2,2--2,,,,,1 Out,,4. Inning,Virginia Tech,NC State,,215;383
+PITCH (134),1642441,15323,,3/16/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Curve Ball,LL,,Ball in Play,,2--2,SS3,Ground Out,,,1 Out,,4. Inning,Virginia Tech,NC State,199;243,195;368
+PITCH (135),1657781,10535,,3/16/2019,25 Carrie Eberle,R-Hand,2 Jessica Moore,R-Hand,Screw Ball,MR,,Foul,0--1,0--0,,,,,2 Out,,4. Inning,Virginia Tech,NC State,,392;295
+PITCH (136),1668332,13973,,3/16/2019,25 Carrie Eberle,R-Hand,2 Jessica Moore,R-Hand,Screw Ball,UPR,,Foul,0--2,0--1,,,,,2 Out,,4. Inning,Virginia Tech,NC State,,301;173
+PITCH (137),1682322,8614,,3/16/2019,25 Carrie Eberle,R-Hand,2 Jessica Moore,R-Hand,Rise Ball,DOWNM,,Ball,1--2,0--2,,,,,2 Out,,4. Inning,Virginia Tech,NC State,,110;427
+PITCH (138),1690953,13581,,3/16/2019,25 Carrie Eberle,R-Hand,2 Jessica Moore,R-Hand,Drop Ball,LL,,Ball in Play,,1--2,2B3,Ground Out,,,2 Out,,4. Inning,Virginia Tech,NC State,306;231,149;391
+PITCH (139),1704551,9399,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,6 Lauren Duff,R-Hand,Curve Ball,LR,,Foul,0--1,0--0,,,,,0 Out,,5. Inning,NC State,Virginia Tech,,391;324
+PITCH (140),1713967,9260,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,6 Lauren Duff,R-Hand,Screw Ball,MR,,Foul,0--2,0--1,,,,,0 Out,,5. Inning,NC State,Virginia Tech,,398;244
+PITCH (141),1723243,10218,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,6 Lauren Duff,R-Hand,Rise Ball,UPL,,Ball,1--2,0--2,,,,,0 Out,,5. Inning,NC State,Virginia Tech,,107;197
+PITCH (142),1733478,8151,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,6 Lauren Duff,R-Hand,Rise Ball,UPM,,Ball,2--2,1--2,,,,,0 Out,,5. Inning,NC State,Virginia Tech,,231;34
+PITCH (143),1741645,11033,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,6 Lauren Duff,R-Hand,Rise Ball,DOWNM,,Ball,3--2,2--2,,,,,0 Out,,5. Inning,NC State,Virginia Tech,,407;410
+PITCH (144),1752694,9480,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,6 Lauren Duff,R-Hand,Screw Ball,MR,,Foul,3--2,3--2,,,,,0 Out,,5. Inning,NC State,Virginia Tech,,312;269
+PITCH (145),1762191,14380,Bases Empty,3/16/2019,18 Kama Woodall,R-Hand,6 Lauren Duff,R-Hand,Screw Ball,MR,,Ball in Play,,3--2,DCF1,Single,,,0 Out,,5. Inning,NC State,Virginia Tech,206;102,325;254
+PITCH (146),1776588,18489,R1,3/16/2019,18 Kama Woodall,R-Hand,28 Grace Chavez,R-Hand,Change Up,UPR,,Ball in Play,,0--0,Home Run LCF,Home Run,,Well Hit Ball,,,5. Inning,NC State,Virginia Tech,,325;189
+PITCH (147),1795093,9682,,3/16/2019,18 Kama Woodall,R-Hand,16 Meredith Slaw,L-Hand,Rise Ball,UPR,,Strike Called,0--1,0--0,,,,,,,5. Inning,NC State,Virginia Tech,,394;174
+PITCH (148),1804791,9922,,3/16/2019,18 Kama Woodall,R-Hand,16 Meredith Slaw,L-Hand,Screw Ball,RIGHTM,,Ball,1--1,0--1,,,,,,,5. Inning,NC State,Virginia Tech,,432;278
+PITCH (149),1814731,11126,,3/16/2019,18 Kama Woodall,R-Hand,16 Meredith Slaw,L-Hand,Drop Ball,LL,,Foul,1--2,1--1,,,,,,,5. Inning,NC State,Virginia Tech,,130;334
+PITCH (150),1825873,11725,,3/16/2019,18 Kama Woodall,R-Hand,16 Meredith Slaw,L-Hand,Curve Ball,MR,,Foul,1--2,1--2,,,,,,,5. Inning,NC State,Virginia Tech,,398;246
+PITCH (151),1837615,10292,,3/16/2019,18 Kama Woodall,R-Hand,16 Meredith Slaw,L-Hand,Screw Ball,UPM,,Ball,2--2,1--2,,,,,,,5. Inning,NC State,Virginia Tech,,240;50
+PITCH (152),1847924,15510,,3/16/2019,18 Kama Woodall,R-Hand,16 Meredith Slaw,L-Hand,Rise Ball,ML,,Ball in Play,,2--2,PF,Fly Out,,,,,5. Inning,NC State,Virginia Tech,241;273,128;225
+PITCH (153),1863450,9118,,3/16/2019,18 Kama Woodall,R-Hand,9 Al Velazquez,L-Hand,Drop Ball,UPL,,Foul,0--1,0--0,,,,,1 Out,,5. Inning,NC State,Virginia Tech,,126;197
+PITCH (154),1872585,8381,,3/16/2019,18 Kama Woodall,R-Hand,9 Al Velazquez,L-Hand,Change Up,UPM,,Foul,0--2,0--1,,,,,1 Out,,5. Inning,NC State,Virginia Tech,,216;164
+PITCH (155),1880983,10876,,3/16/2019,18 Kama Woodall,R-Hand,9 Al Velazquez,L-Hand,Rise Ball,RIGHTM,,Ball,1--2,0--2,,,,,1 Out,,5. Inning,NC State,Virginia Tech,,443;255
+PITCH (156),1891876,25084,,3/16/2019,18 Kama Woodall,R-Hand,9 Al Velazquez,L-Hand,Screw Ball,MM,,Ball in Play,,1--2,2B3,ROE,,,1 Out,,5. Inning,NC State,Virginia Tech,286;224,277;255
+PITCH (157),1916977,19967,R1,3/16/2019,18 Kama Woodall,R-Hand,4 Darby Trull,L-Hand,Rise Ball,MR,,Ball in Play,,0--0,DCF1,Triple,1 RBI,,,,5. Inning,NC State,Virginia Tech,217;45,315;245
+PITCH (158),1936960,9393,R3,3/16/2019,18 Kama Woodall,R-Hand,13 Caitlyn Nolan,R-Hand,Curve Ball,UPR,,Foul,0--1,0--0,,,,,1 Out,,5. Inning,NC State,Virginia Tech,,339;182
+PITCH (159),1946370,11647,R3,3/16/2019,18 Kama Woodall,R-Hand,13 Caitlyn Nolan,R-Hand,Screw Ball,UPM,,Ball,1--1,0--1,,,,,1 Out,,5. Inning,NC State,Virginia Tech,,230;41
+PITCH (160),1958034,14622,R3,3/16/2019,18 Kama Woodall,R-Hand,13 Caitlyn Nolan,R-Hand,Change Up,MR,,Ball in Play,,1--1,FB3B,Fly Out,,,1 Out,,5. Inning,NC State,Virginia Tech,164;291,315;219
+PITCH (161),1972672,8293,,3/16/2019,18 Kama Woodall,R-Hand,14 Emma Strouth,R-Hand,Screw Ball,UPM,,Ball,1--0,0--0,,,,,2 Out,,5. Inning,NC State,Virginia Tech,,384;88
+PITCH (162),1980981,11866,,3/16/2019,18 Kama Woodall,R-Hand,14 Emma Strouth,R-Hand,Screw Ball,RIGHTM,,Strike Called,1--1,1--0,,,,,2 Out,,5. Inning,NC State,Virginia Tech,,406;401
+PITCH (163),1992864,13116,,3/16/2019,18 Kama Woodall,R-Hand,14 Emma Strouth,R-Hand,Drop Ball,LR,,Ball in Play,,1--1,FBC,Fly Out,,,2 Out,,5. Inning,NC State,Virginia Tech,348;335,367;323
+PITCH (164),2005997,14965,Bases Empty,3/16/2019,25 Carrie Eberle,R-Hand,12 Natalie Jones,R-Hand,Screw Ball,MM,,Ball in Play,,0--0,SS3,Ground Out,,,0 Out,,5. Inning,Virginia Tech,NC State,221;226,207;289
+PITCH (165),2020979,11431,,3/16/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Rise Ball,UPM,,Ball,1--0,0--0,,,,,1 Out,,5. Inning,Virginia Tech,NC State,,227;57
+PITCH (166),2032427,12977,,3/16/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Rise Ball,UPM,,Ball,2--0,1--0,,,,,1 Out,,5. Inning,Virginia Tech,NC State,,104;99
+PITCH (167),2045420,9525,,3/16/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Rise Ball,LR,,Foul,2--1,2--0,,,,,1 Out,,5. Inning,Virginia Tech,NC State,,377;326
+PITCH (168),2054962,15240,,3/16/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Screw Ball,LM,,Ball in Play,,2--1,3B3,Ground Out,,,1 Out,,5. Inning,Virginia Tech,NC State,209;264,206;374
+PITCH (169),2070218,11823,,3/16/2019,25 Carrie Eberle,R-Hand,5 April Visser,R-Hand,Drop Ball,LL,,Ball in Play,,0--0,2B3,Single,,,2 Out,,5. Inning,Virginia Tech,NC State,273;203,154;363
+PITCH (170),2082058,11074,R1,3/16/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Curve Ball,LEFTM,,Ball,1--0,0--0,,,,,,,5. Inning,Virginia Tech,NC State,,80;292
+PITCH (171),2093150,10929,R1,3/16/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Curve Ball,DOWNM,,Ball,2--0,1--0,,,,,,,5. Inning,Virginia Tech,NC State,,353;441
+PITCH (172),2104096,10666,R1,3/16/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Drop Ball,DOWNM,,Ball,3--0,2--0,,,,,,,5. Inning,Virginia Tech,NC State,,240;435
+PITCH (173),2114779,12436,R1,3/16/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Drop Ball,MM,,Strike Called,3--1,3--0,,,,,,,5. Inning,Virginia Tech,NC State,,218;285
+PITCH (174),2127231,11794,R1,3/16/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Fastball,LM,,Foul,3--2,3--1,,,,,,,5. Inning,Virginia Tech,NC State,,211;381
+PITCH (175),2139042,15729,R1,3/16/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Curve Ball,LR,,Ball in Play,,3--2,DCF1,Line Out,,,,,5. Inning,Virginia Tech,NC State,235;101,296;327

@@ -1,0 +1,190 @@
+﻿Name,Position,Duration,1. Baserunning Situation,1. Date,1. Pitchers Name,1. Pitchers Side,2. Hitters Name,2. Hitters Side,4. Pitch Location,5. Game Pitch Result,6. Pitch Count,6. Previous Pitch Count,8. Hit Location,8. Hit Results,8. RBI,9. Outs,Hitting Position,Period,Team 1. Pitchers Name,Team 2. Hitters Name,XY Hit Location,XY Pitch Location,Z-Game Details
+PITCH (1),0,9167,Bases Empty,02-16-2019,24 Arizona Pilgrim,R-Hand,9 Al Velazquez,L-Hand,MM,Ball,1--0,0--0,,,,0 Out,,1. Inning,Charleston Southern,Virginia Tech,,248;257,PITCH
+PITCH (3),9200,12990,Bases Empty,02-16-2019,24 Arizona Pilgrim,R-Hand,9 Al Velazquez,L-Hand,MR,Ball,3--0,2--0,,,,0 Out,,1. Inning,Charleston Southern,Virginia Tech,,356;292,PITCH
+PITCH (4),22223,21672,NO CHANGE,02-16-2019,24 Arizona Pilgrim,R-Hand,9 Al Velazquez,L-Hand,ML,Ball,Walk,3--0,,,,0 Out,,1. Inning,Charleston Southern,Virginia Tech,,157;248,PITCH
+PITCH (5),43929,17117,R1,02-16-2019,4 Holly Clark,R-Hand,4 Darby Trull,L-Hand,MM,Strike Called,0--1,0--0,,,,0 Out,,1. Inning,Charleston Southern,Virginia Tech,,233;254,PITCH
+PITCH (6),61079,20551,R1,02-16-2019,4 Holly Clark,R-Hand,4 Darby Trull,L-Hand,MR,Foul,0--2,0--1,,,,0 Out,,1. Inning,Charleston Southern,Virginia Tech,,353;246,PITCH
+PITCH (7),81663,16584,R1,02-16-2019,4 Holly Clark,R-Hand,4 Darby Trull,L-Hand,MR,Ball,1--2,0--2,,,,0 Out,,1. Inning,Charleston Southern,Virginia Tech,,332;233,PITCH
+PITCH (8),98281,17633,R1,02-16-2019,4 Holly Clark,R-Hand,4 Darby Trull,L-Hand,LM,Ball,2--2,1--2,,,,0 Out,,1. Inning,Charleston Southern,Virginia Tech,,252;339,PITCH
+PITCH (9),115947,23146,R1,02-16-2019,4 Holly Clark,R-Hand,4 Darby Trull,L-Hand,,Ball in Play,,2--2,2B3,,,0 Out,,1. Inning,Charleston Southern,Virginia Tech,279;227,,PITCH
+PITCH (10),139126,19877,R1,02-16-2019,4 Holly Clark,R-Hand,6 Lauren Duff,R-Hand,LL,Strike Called,0--1,0--0,,,,1 Out,,1. Inning,Charleston Southern,Virginia Tech,,160;360,PITCH
+PITCH (11),159036,17182,R1,02-16-2019,4 Holly Clark,R-Hand,6 Lauren Duff,R-Hand,LM,Strike Swinging,0--2,0--1,,,,1 Out,,1. Inning,Charleston Southern,Virginia Tech,,243;369,PITCH
+PITCH (12),176251,29690,R1,02-16-2019,4 Holly Clark,R-Hand,6 Lauren Duff,R-Hand,,Ball in Play,,0--2,3B3,Fielders Choice,,1 Out,,1. Inning,Charleston Southern,Virginia Tech,212;267,,PITCH
+PITCH (13),205974,14351,R2,02-16-2019,4 Holly Clark,R-Hand,13 Caitlyn Nolan,R-Hand,,Strike Called,0--1,0--0,,,,2 Out,,1. Inning,Charleston Southern,Virginia Tech,,,PITCH
+PITCH (14),220359,22831,R2,02-16-2019,4 Holly Clark,R-Hand,13 Caitlyn Nolan,R-Hand,UPM,Strike Called,0--2,0--1,,,,2 Out,,1. Inning,Charleston Southern,Virginia Tech,,182;1,PITCH
+PITCH (15),243224,24692,R2,02-16-2019,4 Holly Clark,R-Hand,13 Caitlyn Nolan,R-Hand,ML,Ball in Play,,0--2,3B2,Fielders Choice,,2 Out,,1. Inning,Charleston Southern,Virginia Tech,209;275,182;243,PITCH
+PITCH (16),267949,11778,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,74 Annie Bakenhus,L-Hand,LL,Ball,1--0,0--0,,,,0 Out,,1. Inning,Virginia Tech,Charleston Southern,,154;379,PITCH
+PITCH (17),279760,17130,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,74 Annie Bakenhus,L-Hand,ML,Ball,2--0,1--0,,,,0 Out,,1. Inning,Virginia Tech,Charleston Southern,,148;264,PITCH
+PITCH (18),296923,21582,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,74 Annie Bakenhus,L-Hand,,Ball in Play,,2--0,3B2,Ground Out,,0 Out,,1. Inning,Virginia Tech,Charleston Southern,204;282,,PITCH
+PITCH (19),318538,8823,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,33 Brooklynn Brewington,L-Hand,MM,Strike Called,0--1,0--0,,,,1 Out,,1. Inning,Virginia Tech,Charleston Southern,,258;225,PITCH
+PITCH (20),327395,11518,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,33 Brooklynn Brewington,L-Hand,ML,Ball,1--1,0--1,,,,1 Out,,1. Inning,Virginia Tech,Charleston Southern,,156;237,PITCH
+PITCH (21),338946,11956,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,33 Brooklynn Brewington,L-Hand,MM,Strike Swinging,1--2,1--1,,,,1 Out,,1. Inning,Virginia Tech,Charleston Southern,,256;267,PITCH
+PITCH (22),350936,15465,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,33 Brooklynn Brewington,L-Hand,LM,Ball,2--2,1--2,,,,1 Out,,1. Inning,Virginia Tech,Charleston Southern,,280;364,PITCH
+PITCH (23),366434,16036,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,33 Brooklynn Brewington,L-Hand,ML,Ball,3--2,2--2,,,,1 Out,,1. Inning,Virginia Tech,Charleston Southern,,144;267,PITCH
+PITCH (24),382503,15558,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,33 Brooklynn Brewington,L-Hand,,Strike Swinging,Strikeout,3--2,,,,1 Out,,1. Inning,Virginia Tech,Charleston Southern,,,PITCH
+PITCH (25),398094,18488,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,42 Jade Gandara,L-Hand,MM,Ball in Play,,0--0,1B2,Ground Out,,2 Out,,1. Inning,Virginia Tech,Charleston Southern,290;275,226;227,PITCH
+PITCH (26),416615,14916,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,UPL,Ball,1--0,0--0,,,,0 Out,,2. Inning,Charleston Southern,Virginia Tech,,160;147,PITCH
+PITCH (27),431564,14560,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,UPR,Ball,2--0,1--0,,,,0 Out,,2. Inning,Charleston Southern,Virginia Tech,,363;153,PITCH
+PITCH (28),446158,24568,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,ML,Foul,2--1,2--0,,,,0 Out,,2. Inning,Charleston Southern,Virginia Tech,,171;243,PITCH
+PITCH (29),470759,17402,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,LR,Ball,3--1,2--1,,,,0 Out,,2. Inning,Charleston Southern,Virginia Tech,,341;336,PITCH
+PITCH (30),488194,21973,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,,Ball in Play,,3--1,SS3,Single,,0 Out,,2. Inning,Charleston Southern,Virginia Tech,215;210,,PITCH
+PITCH (31),510201,21412,R1,02-16-2019,4 Holly Clark,R-Hand,8 Kelsey Bennett,R-Hand,MR,Foul,1--1,1--0,,,,0 Out,,2. Inning,Charleston Southern,Virginia Tech,,328;231,PITCH
+PITCH (32),531647,30479,R1,02-16-2019,4 Holly Clark,R-Hand,8 Kelsey Bennett,R-Hand,UPM,Ball in Play,,1--1,DRCF,Fly Out,,0 Out,,2. Inning,Charleston Southern,Virginia Tech,358;58,233;149,PITCH
+PITCH (33),562159,29810,R1,02-16-2019,4 Holly Clark,R-Hand,2 Jayme Bailey,R-Hand,,Ball in Play,,0--0,SLCF,Single,,1 Out,,2. Inning,Charleston Southern,Virginia Tech,181;187,,PITCH
+PITCH (34),592002,26238,R12,02-16-2019,4 Holly Clark,R-Hand,18 Mackenzie Lawter,R-Hand,MM,Strike Called,0--1,0--0,,,,1 Out,,2. Inning,Charleston Southern,Virginia Tech,,264;239,PITCH
+PITCH (35),618274,17788,R12,02-16-2019,4 Holly Clark,R-Hand,18 Mackenzie Lawter,R-Hand,MM,Ball,1--1,0--1,,,,1 Out,,2. Inning,Charleston Southern,Virginia Tech,,244;242,PITCH
+PITCH (36),636096,15655,R12,02-16-2019,4 Holly Clark,R-Hand,18 Mackenzie Lawter,R-Hand,MR,Ball,2--1,1--1,,,,1 Out,,2. Inning,Charleston Southern,Virginia Tech,,358;254,PITCH
+PITCH (37),651784,28917,R12,02-16-2019,4 Holly Clark,R-Hand,18 Mackenzie Lawter,R-Hand,,Ball in Play,,2--1,3B2,Fielders Choice,,1 Out,,2. Inning,Charleston Southern,Virginia Tech,195;279,,PITCH
+PITCH (38),680735,18806,R12,02-16-2019,4 Holly Clark,R-Hand,29 Maddi Banks,L-Hand,MR,Strike Swinging,0--1,0--0,,,,2 Out,,2. Inning,Charleston Southern,Virginia Tech,,339;236,PITCH
+PITCH (39),699574,18066,R12,02-16-2019,4 Holly Clark,R-Hand,29 Maddi Banks,L-Hand,MR,Ball,1--1,0--1,,,,2 Out,,2. Inning,Charleston Southern,Virginia Tech,,343;231,PITCH
+PITCH (40),717673,16326,R12,02-16-2019,4 Holly Clark,R-Hand,29 Maddi Banks,L-Hand,,Foul,1--2,1--1,,,,2 Out,,2. Inning,Charleston Southern,Virginia Tech,,,PITCH
+PITCH (41),734033,22007,R12,02-16-2019,4 Holly Clark,R-Hand,29 Maddi Banks,L-Hand,MR,Strike Swinging,Strikeout,1--2,,,,2 Out,,2. Inning,Charleston Southern,Virginia Tech,,339;265,PITCH
+PITCH (42),756073,12138,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,21 Cailtlyn Emberson,R-Hand,RIGHTM,Ball,1--0,0--0,,,,0 Out,,2. Inning,Virginia Tech,Charleston Southern,,426;144,PITCH
+PITCH (43),768244,25514,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,21 Cailtlyn Emberson,R-Hand,MM,Ball in Play,,1--0,SS3,Ground Out,,0 Out,,2. Inning,Virginia Tech,Charleston Southern,225;234,223;207,PITCH
+PITCH (44),793792,16993,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,10 Sierra Brown,R-Hand,MR,Strike Called,0--1,0--0,,,,1 Out,,2. Inning,Virginia Tech,Charleston Southern,,363;275,PITCH
+PITCH (45),810818,18332,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,10 Sierra Brown,R-Hand,ML,Ball in Play,,0--1,SS3,Ground Out,,1 Out,,2. Inning,Virginia Tech,Charleston Southern,205;215,201;293,PITCH
+PITCH (46),829183,13400,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,2 Summer Moore,R-Hand,UPM,Ball,1--0,0--0,,,,2 Out,,2. Inning,Virginia Tech,Charleston Southern,,168;86,PITCH
+PITCH (47),842616,13738,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,2 Summer Moore,R-Hand,DOWNM,Ball,2--0,1--0,,,,2 Out,,2. Inning,Virginia Tech,Charleston Southern,,366;423,PITCH
+PITCH (48),856388,8498,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,2 Summer Moore,R-Hand,UPL,Foul,2--1,2--0,,,,2 Out,,2. Inning,Virginia Tech,Charleston Southern,,133;160,PITCH
+PITCH (49),864919,9395,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,2 Summer Moore,R-Hand,ML,Strike Swinging,2--2,2--1,,,,2 Out,,2. Inning,Virginia Tech,Charleston Southern,,177;289,PITCH
+PITCH (50),874347,14376,NO CHANGE,02-16-2019,25 Carrie Eberle,R-Hand,2 Summer Moore,R-Hand,ML,Strike Swinging,Strikeout,2--2,,,,2 Out,,2. Inning,Virginia Tech,Charleston Southern,,189;249,PITCH
+PITCH (51),888756,11092,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,9 Al Velazquez,L-Hand,DOWNM,Ball,1--0,0--0,,,,0 Out,,3. Inning,Charleston Southern,Virginia Tech,,312;435,PITCH
+PITCH (52),899881,10435,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,9 Al Velazquez,L-Hand,UPR,Foul,1--1,1--0,,,,0 Out,,3. Inning,Charleston Southern,Virginia Tech,,328;130,PITCH
+PITCH (53),910349,17023,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,9 Al Velazquez,L-Hand,LR,Ball in Play,,1--1,2B3,Ground Out,,0 Out,,3. Inning,Charleston Southern,Virginia Tech,298;226,329;315,PITCH
+PITCH (54),927405,24467,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,4 Darby Trull,L-Hand,UPM,Ball in Play,,0--0,2B3,ROE,,1 Out,,3. Inning,Charleston Southern,Virginia Tech,285;227,284;155,PITCH
+PITCH (55),951905,18708,R1,02-16-2019,4 Holly Clark,R-Hand,6 Lauren Duff,R-Hand,DOWNM,Ball,1--0,0--0,,,,1 Out,,3. Inning,Charleston Southern,Virginia Tech,,139;426,PITCH
+PITCH (56),970646,19652,R1,02-16-2019,4 Holly Clark,R-Hand,6 Lauren Duff,R-Hand,UPM,Ball in Play,,1--0,SCF1,Single,,1 Out,,3. Inning,Charleston Southern,Virginia Tech,242;177,278;149,PITCH
+PITCH (57),990331,10722,R12,02-16-2019,4 Holly Clark,R-Hand,13 Caitlyn Nolan,R-Hand,UPR,Foul,0--1,0--0,,,,1 Out,,3. Inning,Charleston Southern,Virginia Tech,,318;196,PITCH
+PITCH (58),1001087,12235,R12,02-16-2019,4 Holly Clark,R-Hand,13 Caitlyn Nolan,R-Hand,LEFTM,Ball,1--1,0--1,,,,1 Out,,3. Inning,Charleston Southern,Virginia Tech,,75;223,PITCH
+PITCH (59),1013355,18242,R12,02-16-2019,4 Holly Clark,R-Hand,13 Caitlyn Nolan,R-Hand,MR,Ball in Play,,1--1,DLF,Fly Out,,1 Out,,3. Inning,Charleston Southern,Virginia Tech,107;97,343;271,PITCH
+PITCH (60),1031630,12344,R12,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,LEFTM,Ball,1--0,0--0,,,,2 Out,,3. Inning,Charleston Southern,Virginia Tech,,61;134,PITCH
+PITCH (61),1044008,13600,R12,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,RIGHTM,Ball,2--0,1--0,,,,2 Out,,3. Inning,Charleston Southern,Virginia Tech,,422;365,PITCH
+PITCH (62),1057641,12465,R12,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,RIGHTM,Ball,3--0,2--0,,,,2 Out,,3. Inning,Charleston Southern,Virginia Tech,,416;232,PITCH
+PITCH (63),1070139,11047,R12,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,LM,Strike Called,3--1,3--0,,,,2 Out,,3. Inning,Charleston Southern,Virginia Tech,,236;332,PITCH
+PITCH (64),1081220,16647,R12,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,LM,Ball in Play,,3--1,SCF1,Single,1 RBI,2 Out,,3. Inning,Charleston Southern,Virginia Tech,238;149,241;316,PITCH
+PITCH (65),1097900,9004,,02-16-2019,4 Holly Clark,R-Hand,8 Kelsey Bennett,R-Hand,,,,,,,,2 Out,,3. Inning,Charleston Southern,Virginia Tech,,,PITCH
+PITCH (66),1106938,9453,,02-16-2019,4 Holly Clark,R-Hand,8 Kelsey Bennett,R-Hand,LR,Foul,0--1,0--0,,,,2 Out,,3. Inning,Charleston Southern,Virginia Tech,,326;310,PITCH
+PITCH (67),1116424,7703,R12,02-16-2019,4 Holly Clark,R-Hand,8 Kelsey Bennett,R-Hand,UPM,Foul,0--2,0--1,,,,2 Out,,3. Inning,Charleston Southern,Virginia Tech,,244;135,PITCH
+PITCH (68),1124160,9648,R12,02-16-2019,4 Holly Clark,R-Hand,8 Kelsey Bennett,R-Hand,UPM,Ball,1--2,0--2,,,,2 Out,,3. Inning,Charleston Southern,Virginia Tech,,291;90,PITCH
+PITCH (69),1133842,11367,R12,02-16-2019,4 Holly Clark,R-Hand,8 Kelsey Bennett,R-Hand,DOWNM,Ball,2--2,1--2,,,,2 Out,,3. Inning,Charleston Southern,Virginia Tech,,233;440,PITCH
+PITCH (70),1145242,13700,R12,02-16-2019,4 Holly Clark,R-Hand,8 Kelsey Bennett,R-Hand,LR,Ball in Play,,2--2,PF,Ground Out,,2 Out,,3. Inning,Charleston Southern,Virginia Tech,247;273,312;325,PITCH
+PITCH (71),1158976,14022,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,15 Madison Koger,R-Hand,ML,Foul,0--1,0--0,,,,0 Out,,3. Inning,Virginia Tech,Charleston Southern,,141;212,PITCH
+PITCH (72),1173032,9809,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,15 Madison Koger,R-Hand,UPM,Ball,1--1,0--1,,,,0 Out,,3. Inning,Virginia Tech,Charleston Southern,,262;56,PITCH
+PITCH (73),1182874,17525,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,15 Madison Koger,R-Hand,LM,Ball in Play,,1--1,PF,Ground Out,,0 Out,,3. Inning,Virginia Tech,Charleston Southern,248;265,265;342,PITCH
+PITCH (74),1200433,18694,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,22 Destini Ewing,R-Hand,ML,Ball in Play,,0--0,2B3,Ground Out,,1 Out,,3. Inning,Virginia Tech,Charleston Southern,313;224,179;272,PITCH
+PITCH (75),1219160,14013,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,3 Meghan Gagliano,L-Hand,LM,Foul,0--1,0--0,,,,2 Out,,3. Inning,Virginia Tech,Charleston Southern,,227;319,PITCH
+PITCH (76),1233207,14908,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,3 Meghan Gagliano,L-Hand,LL,Foul,0--2,0--1,,,,2 Out,,3. Inning,Virginia Tech,Charleston Southern,,182;324,PITCH
+PITCH (77),1248148,13549,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,3 Meghan Gagliano,L-Hand,LEFTM,Strike Swinging,Strikeout,0--2,,,,2 Out,,3. Inning,Virginia Tech,Charleston Southern,,84;184,PITCH
+PITCH (78),1261730,10817,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,2 Jayme Bailey,R-Hand,DOWNM,Ball,1--0,0--0,,,,0 Out,,4. Inning,Charleston Southern,Virginia Tech,,284;421,PITCH
+PITCH (79),1272581,11653,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,2 Jayme Bailey,R-Hand,LR,Strike Called,1--1,1--0,,,,0 Out,,4. Inning,Charleston Southern,Virginia Tech,,368;315,PITCH
+PITCH (80),1284267,10360,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,2 Jayme Bailey,R-Hand,MR,Foul,1--2,1--1,,,,0 Out,,4. Inning,Charleston Southern,Virginia Tech,,330;301,PITCH
+PITCH (81),1294660,11438,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,2 Jayme Bailey,R-Hand,DOWNM,Ball,2--2,1--2,,,,0 Out,,4. Inning,Charleston Southern,Virginia Tech,,173;432,PITCH
+PITCH (82),1306132,9661,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,2 Jayme Bailey,R-Hand,LL,Foul,2--2,2--2,,,,0 Out,,4. Inning,Charleston Southern,Virginia Tech,,150;381,PITCH
+PITCH (83),1315826,21284,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,2 Jayme Bailey,R-Hand,MM,Ball in Play,,2--2,SS3,Ground Out,,0 Out,,4. Inning,Charleston Southern,Virginia Tech,178;251,201;213,PITCH
+PITCH (84),1337143,19375,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,18 Mackenzie Lawter,R-Hand,UPM,Ball in Play,,0--0,3B2,Fly Out,,1 Out,,4. Inning,Charleston Southern,Virginia Tech,250;313,236;151,PITCH
+PITCH (85),1356551,11354,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,29 Maddi Banks,L-Hand,UPR,Foul,0--1,0--0,,,,2 Out,,4. Inning,Charleston Southern,Virginia Tech,,353;191,PITCH
+PITCH (86),1367938,15547,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,29 Maddi Banks,L-Hand,MR,Ball in Play,,0--1,2B3,Ground Out,,2 Out,,4. Inning,Charleston Southern,Virginia Tech,293;218,315;225,PITCH
+PITCH (87),1383518,13703,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,74 Annie Bakenhus,L-Hand,LL,Ball in Play,,0--0,SS3,Ground Out,,0 Out,,4. Inning,Virginia Tech,Charleston Southern,236;253,190;316,PITCH
+PITCH (88),1397254,11707,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,33 Brooklynn Brewington,L-Hand,LR,Strike Swinging,0--1,0--0,,,,1 Out,,4. Inning,Virginia Tech,Charleston Southern,,303;338,PITCH
+PITCH (89),1408995,14342,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,33 Brooklynn Brewington,L-Hand,LEFTM,Ball,1--1,0--1,,,,1 Out,,4. Inning,Virginia Tech,Charleston Southern,,96;241,PITCH
+PITCH (90),1423370,16961,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,33 Brooklynn Brewington,L-Hand,UPR,Strike Swinging,1--2,1--1,,,,1 Out,,4. Inning,Virginia Tech,Charleston Southern,,339;196,PITCH
+PITCH (91),1440365,13449,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,33 Brooklynn Brewington,L-Hand,RIGHTM,Ball,3--1,2--1,,,,1 Out,,4. Inning,Virginia Tech,Charleston Southern,,435;98,PITCH
+PITCH (92),1453847,15340,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,33 Brooklynn Brewington,L-Hand,ML,Strike Called,3--2,3--1,,,,1 Out,,4. Inning,Virginia Tech,Charleston Southern,,135;217,PITCH
+PITCH (93),1469220,17074,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,33 Brooklynn Brewington,L-Hand,LL,Strike Swinging,Strikeout,3--2,,,,1 Out,,4. Inning,Virginia Tech,Charleston Southern,,150;331,PITCH
+PITCH (94),1486328,9347,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,42 Jade Gandara,L-Hand,UPL,Foul,0--1,0--0,,,,2 Out,,4. Inning,Virginia Tech,Charleston Southern,,172;149,PITCH
+PITCH (95),1495708,19666,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,42 Jade Gandara,L-Hand,MR,Ball in Play,,0--1,SS3,Single,,2 Out,,4. Inning,Virginia Tech,Charleston Southern,198;217,374;260,PITCH
+PITCH (96),1515408,17469,R1,02-16-2019,25 Carrie Eberle,R-Hand,21 Cailtlyn Emberson,R-Hand,LEFTM,Ball,1--0,0--0,,,,2 Out,,4. Inning,Virginia Tech,Charleston Southern,,79;374,PITCH
+PITCH (97),1532910,13577,R1,02-16-2019,25 Carrie Eberle,R-Hand,21 Cailtlyn Emberson,R-Hand,LM,Strike Called,1--1,1--0,,,,2 Out,,4. Inning,Virginia Tech,Charleston Southern,,293;326,PITCH
+PITCH (98),1546521,10306,R1,02-16-2019,25 Carrie Eberle,R-Hand,21 Cailtlyn Emberson,R-Hand,LEFTM,Ball,2--1,1--1,,,,2 Out,,4. Inning,Virginia Tech,Charleston Southern,,48;297,PITCH
+PITCH (99),1556860,12541,R1,02-16-2019,25 Carrie Eberle,R-Hand,21 Cailtlyn Emberson,R-Hand,MR,Foul,2--2,2--1,,,,2 Out,,4. Inning,Virginia Tech,Charleston Southern,,367;212,PITCH
+PITCH (100),1569435,16136,R1,02-16-2019,25 Carrie Eberle,R-Hand,21 Cailtlyn Emberson,R-Hand,UPM,Ball in Play,,2--2,SS3,Ground Out,,2 Out,,4. Inning,Virginia Tech,Charleston Southern,212;213,294;172,PITCH
+PITCH (101),1585604,18114,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,9 Al Velazquez,L-Hand,MR,Strike Called,0--1,0--0,,,,0 Out,,5. Inning,Charleston Southern,Virginia Tech,,311;241,PITCH
+PITCH (102),1603751,21343,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,9 Al Velazquez,L-Hand,,Ball in Play,,0--1,1B2,,,0 Out,,5. Inning,Charleston Southern,Virginia Tech,301;272,,PITCH
+PITCH (103),1625127,27824,R1,02-16-2019,4 Holly Clark,R-Hand,4 Darby Trull,L-Hand,MM,Strike Called,0--1,0--0,,,,0 Out,,5. Inning,Charleston Southern,Virginia Tech,,241;246,PITCH
+PITCH (104),1652985,18344,R1,02-16-2019,4 Holly Clark,R-Hand,4 Darby Trull,L-Hand,,Ball,1--1,0--1,,,,0 Out,,5. Inning,Charleston Southern,Virginia Tech,,,PITCH
+PITCH (105),1671362,18019,R1,02-16-2019,4 Holly Clark,R-Hand,4 Darby Trull,L-Hand,MM,Ball,2--1,1--1,,,,0 Out,,5. Inning,Charleston Southern,Virginia Tech,,239;244,PITCH
+PITCH (106),1689415,26971,R1,02-16-2019,4 Holly Clark,R-Hand,4 Darby Trull,L-Hand,,Ball in Play,,2--1,2B3,Fielders Choice,,0 Out,,5. Inning,Charleston Southern,Virginia Tech,283;242,,PITCH
+PITCH (107),1716419,31661,R2,02-16-2019,4 Holly Clark,R-Hand,6 Lauren Duff,R-Hand,MM,Strike Called,0--1,0--0,,,,1 Out,,5. Inning,Charleston Southern,Virginia Tech,,236;278,PITCH
+PITCH (108),1748113,12273,R2,02-16-2019,4 Holly Clark,R-Hand,6 Lauren Duff,R-Hand,LL,Ball,1--1,0--1,,,,1 Out,,5. Inning,Charleston Southern,Virginia Tech,,127;340,PITCH
+PITCH (109),1760419,17536,R2,02-16-2019,4 Holly Clark,R-Hand,6 Lauren Duff,R-Hand,MR,Foul,1--2,1--1,,,,1 Out,,5. Inning,Charleston Southern,Virginia Tech,,326;243,PITCH
+PITCH (110),1777988,30693,R2,02-16-2019,4 Holly Clark,R-Hand,6 Lauren Duff,R-Hand,,Ball in Play,,1--2,SS3,Fielders Choice,,1 Out,,5. Inning,Charleston Southern,Virginia Tech,220;240,,PITCH
+PITCH (111),1808715,24083,R3,02-16-2019,4 Holly Clark,R-Hand,13 Caitlyn Nolan,R-Hand,,Foul,0--1,0--0,,,,2 Out,,5. Inning,Charleston Southern,Virginia Tech,,,PITCH
+PITCH (112),1832831,38116,R3,02-16-2019,4 Holly Clark,R-Hand,13 Caitlyn Nolan,R-Hand,,Ball in Play,,0--1,SS3,Ground Out,,2 Out,,5. Inning,Charleston Southern,Virginia Tech,216;236,,PITCH
+PITCH (113),1870981,15559,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,10 Sierra Brown,R-Hand,,Ball in Play,,0--0,2B3,Ground Out,,0 Out,,5. Inning,Virginia Tech,Charleston Southern,280;238,,PITCH
+PITCH (114),1886573,8118,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,2 Summer Moore,R-Hand,LR,Ball,1--0,0--0,,,,1 Out,,5. Inning,Virginia Tech,Charleston Southern,,360;362,PITCH
+PITCH (115),1894724,18723,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,2 Summer Moore,R-Hand,LL,Ball,2--0,1--0,,,,1 Out,,5. Inning,Virginia Tech,Charleston Southern,,167;364,PITCH
+PITCH (116),1913480,7085,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,2 Summer Moore,R-Hand,,Ball in Play,,2--0,3B2,Ground Out,,1 Out,,5. Inning,Virginia Tech,Charleston Southern,205;273,,PITCH
+PITCH (117),1920599,15017,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,15 Madison Koger,R-Hand,ML,Ball,1--0,0--0,,,,2 Out,,5. Inning,Virginia Tech,Charleston Southern,,162;266,PITCH
+PITCH (118),1935649,24242,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,15 Madison Koger,R-Hand,MR,Ball,2--0,1--0,,,,2 Out,,5. Inning,Virginia Tech,Charleston Southern,,349;218,PITCH
+PITCH (119),1959924,16906,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,15 Madison Koger,R-Hand,ML,Ball,3--0,2--0,,,,2 Out,,5. Inning,Virginia Tech,Charleston Southern,,189;240,PITCH
+PITCH (120),1976863,8504,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,15 Madison Koger,R-Hand,UPM,Strike Called,3--1,3--0,,,,2 Out,,5. Inning,Virginia Tech,Charleston Southern,,268;202,PITCH
+PITCH (121),1985401,14645,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,15 Madison Koger,R-Hand,MR,Strike Called,3--2,3--1,,,,2 Out,,5. Inning,Virginia Tech,Charleston Southern,,353;261,PITCH
+PITCH (122),2000079,20575,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,15 Madison Koger,R-Hand,,Ball in Play,,3--2,3B2,Ground Out,,2 Out,,5. Inning,Virginia Tech,Charleston Southern,213;269,,PITCH
+PITCH (123),2020687,30683,,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,ML,Ball,1--0,0--0,,,,,,6. Inning,Charleston Southern,Virginia Tech,,142;237,PITCH
+PITCH (124),2051403,15369,,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,,Foul,1--1,1--0,,,,,,6. Inning,Charleston Southern,Virginia Tech,,,PITCH
+PITCH (125),2066806,15752,,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,,Ball in Play,,1--1,SCF1,Single,,,,6. Inning,Charleston Southern,Virginia Tech,249;143,,PITCH
+PITCH (126),2082591,36740,R1,02-16-2019,4 Holly Clark,R-Hand,8 Kelsey Bennett,R-Hand,,Ball in Play,,0--0,SS3,ROE,,,,6. Inning,Charleston Southern,Virginia Tech,201;243,,PITCH
+PITCH (127),2119364,25112,R12,02-16-2019,4 Holly Clark,R-Hand,2 Jayme Bailey,R-Hand,,Ball in Play,,0--0,PF,,,,Bunt,6. Inning,Charleston Southern,Virginia Tech,249;308,,PITCH
+PITCH (128),2144509,16338,R23,02-16-2019,4 Holly Clark,R-Hand,16 Meredith Slaw,L-Hand,MR,Ball,1--0,0--0,,,,1 Out,,6. Inning,Charleston Southern,Virginia Tech,,332;236,PITCH
+PITCH (129),2160881,20016,R23,02-16-2019,4 Holly Clark,R-Hand,16 Meredith Slaw,L-Hand,,Ball,2--0,1--0,,,,1 Out,,6. Inning,Charleston Southern,Virginia Tech,,227;301,PITCH
+PITCH (130),2180931,16141,R23,02-16-2019,4 Holly Clark,R-Hand,16 Meredith Slaw,L-Hand,MR,Foul,2--1,2--0,,,,1 Out,,6. Inning,Charleston Southern,Virginia Tech,,350;286,PITCH
+PITCH (131),2197105,21982,R23,02-16-2019,4 Holly Clark,R-Hand,16 Meredith Slaw,L-Hand,,Ball in Play,,2--1,SLCF,,,1 Out,,6. Inning,Charleston Southern,Virginia Tech,156;159,,PITCH
+PITCH (132),2219121,14474,R23,02-16-2019,4 Holly Clark,R-Hand,12 Hannah Jones,L-Hand,DOWNM,Ball,1--0,0--0,,,,1 Out,,6. Inning,Charleston Southern,Virginia Tech,,403;428,PITCH
+PITCH (133),2233628,14089,R23,02-16-2019,4 Holly Clark,R-Hand,12 Hannah Jones,L-Hand,LM,Ball,2--0,1--0,,,,1 Out,,6. Inning,Charleston Southern,Virginia Tech,,241;364,PITCH
+PITCH (134),2247750,11208,R23,02-16-2019,4 Holly Clark,R-Hand,12 Hannah Jones,L-Hand,LM,Strike Swinging,2--1,2--0,,,,1 Out,,6. Inning,Charleston Southern,Virginia Tech,,267;359,PITCH
+PITCH (135),2258992,14067,R23,02-16-2019,4 Holly Clark,R-Hand,12 Hannah Jones,L-Hand,MR,Ball,3--1,2--1,,,,1 Out,,6. Inning,Charleston Southern,Virginia Tech,,340;275,PITCH
+PITCH (136),2273092,10579,R23,02-16-2019,4 Holly Clark,R-Hand,12 Hannah Jones,L-Hand,,Foul,3--2,3--1,,,,1 Out,,6. Inning,Charleston Southern,Virginia Tech,,,PITCH
+PITCH (137),2283705,12309,R23,02-16-2019,4 Holly Clark,R-Hand,12 Hannah Jones,L-Hand,,Foul,3--2,3--2,,,,1 Out,,6. Inning,Charleston Southern,Virginia Tech,,,PITCH
+PITCH (138),2296047,13751,R23,02-16-2019,4 Holly Clark,R-Hand,12 Hannah Jones,L-Hand,,Foul,3--2,3--2,,,,1 Out,,6. Inning,Charleston Southern,Virginia Tech,,,PITCH
+PITCH (139),2309831,17422,R23,02-16-2019,4 Holly Clark,R-Hand,12 Hannah Jones,L-Hand,LR,Strike Swinging,Strikeout,3--2,,,,1 Out,,6. Inning,Charleston Southern,Virginia Tech,,330;338,PITCH
+PITCH (140),2327286,12590,R23,02-16-2019,4 Holly Clark,R-Hand,25 Carrie Eberle,R-Hand,LR,Ball,1--0,0--0,,,,2 Out,,6. Inning,Charleston Southern,Virginia Tech,,350;374,PITCH
+PITCH (141),2339909,10942,R23,02-16-2019,4 Holly Clark,R-Hand,25 Carrie Eberle,R-Hand,MR,Ball,2--0,1--0,,,,2 Out,,6. Inning,Charleston Southern,Virginia Tech,,348;274,PITCH
+PITCH (142),2350885,16195,R23,02-16-2019,4 Holly Clark,R-Hand,25 Carrie Eberle,R-Hand,LM,Ball,3--0,2--0,,,,2 Out,,6. Inning,Charleston Southern,Virginia Tech,,244;361,PITCH
+PITCH (143),2367113,17430,R23,02-16-2019,4 Holly Clark,R-Hand,25 Carrie Eberle,R-Hand,,Ball in Play,,3--0,2B3,Ground Out,,2 Out,,6. Inning,Charleston Southern,Virginia Tech,280;239,,PITCH
+PITCH (144),2384576,15952,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,22 Destini Ewing,R-Hand,ML,Ball,1--0,0--0,,,,0 Out,,6. Inning,Virginia Tech,Charleston Southern,,180;258,PITCH
+PITCH (145),2400562,12182,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,22 Destini Ewing,R-Hand,MM,Strike Called,1--1,1--0,,,,0 Out,,6. Inning,Virginia Tech,Charleston Southern,,278;293,PITCH
+PITCH (146),2412777,11617,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,22 Destini Ewing,R-Hand,UPR,Ball,2--1,1--1,,,,0 Out,,6. Inning,Virginia Tech,Charleston Southern,,356;134,PITCH
+PITCH (147),2424427,14349,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,22 Destini Ewing,R-Hand,UPR,Ball,3--1,2--1,,,,0 Out,,6. Inning,Virginia Tech,Charleston Southern,,356;156,PITCH
+PITCH (148),2438810,15354,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,22 Destini Ewing,R-Hand,LM,Strike Swinging,3--2,3--1,,,,0 Out,,6. Inning,Virginia Tech,Charleston Southern,,247;370,PITCH
+PITCH (149),2454197,12994,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,22 Destini Ewing,R-Hand,,Ball in Play,,3--2,SS3,Ground Out,,0 Out,,6. Inning,Virginia Tech,Charleston Southern,220;218,,PITCH
+PITCH (150),2467225,11510,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,3 Meghan Gagliano,L-Hand,LM,Ball,1--0,0--0,,,,1 Out,,6. Inning,Virginia Tech,Charleston Southern,,247;342,PITCH
+PITCH (151),2478768,14413,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,3 Meghan Gagliano,L-Hand,ML,Strike Swinging,2--1,2--0,,,,1 Out,,6. Inning,Virginia Tech,Charleston Southern,,164;271,PITCH
+PITCH (152),2493215,13001,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,3 Meghan Gagliano,L-Hand,LM,Strike Swinging,2--2,2--1,,,,1 Out,,6. Inning,Virginia Tech,Charleston Southern,,252;329,PITCH
+PITCH (153),2506249,9275,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,3 Meghan Gagliano,L-Hand,MR,Foul,2--2,2--2,,,,1 Out,,6. Inning,Virginia Tech,Charleston Southern,,350;241,PITCH
+PITCH (154),2515557,5421,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,3 Meghan Gagliano,L-Hand,LM,Ball,3--2,2--2,,,,1 Out,,6. Inning,Virginia Tech,Charleston Southern,,251;356,PITCH
+PITCH (155),2521012,18994,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,3 Meghan Gagliano,L-Hand,,Ball in Play,,3--2,PF,Single,,1 Out,,6. Inning,Virginia Tech,Charleston Southern,251;288,,PITCH
+PITCH (156),2540040,15346,R1,02-16-2019,25 Carrie Eberle,R-Hand,24 Arizona Pilgrim,R-Hand,LL,WP-PB,3--0,2--0,,,,1 Out,,6. Inning,Virginia Tech,Charleston Southern,,157;347,PITCH
+PITCH (157),2555419,12001,R2,02-16-2019,25 Carrie Eberle,R-Hand,24 Arizona Pilgrim,R-Hand,MM,Strike Called,2--1,2--0,,,,1 Out,,6. Inning,Virginia Tech,Charleston Southern,,254;241,PITCH
+PITCH (158),2567453,6515,R2,02-16-2019,25 Carrie Eberle,R-Hand,24 Arizona Pilgrim,R-Hand,,Ball in Play,,2--1,SLCF,Fly Out,,1 Out,,6. Inning,Virginia Tech,Charleston Southern,130;153,,PITCH
+PITCH (159),2574001,21332,R2,02-16-2019,25 Carrie Eberle,R-Hand,74 Annie Bakenhus,L-Hand,,Ball,1--0,0--0,,,,2 Out,,6. Inning,Virginia Tech,Charleston Southern,,,PITCH
+PITCH (160),2595366,7983,R2,02-16-2019,25 Carrie Eberle,R-Hand,74 Annie Bakenhus,L-Hand,MM,Ball,2--0,1--0,,,,2 Out,,6. Inning,Virginia Tech,Charleston Southern,,280;253,PITCH
+PITCH (161),2603382,12675,R2,02-16-2019,25 Carrie Eberle,R-Hand,74 Annie Bakenhus,L-Hand,MM,Strike Called,2--1,2--0,,,,2 Out,,6. Inning,Virginia Tech,Charleston Southern,,264;271,PITCH
+PITCH (162),2616091,18715,R2,02-16-2019,25 Carrie Eberle,R-Hand,74 Annie Bakenhus,L-Hand,LM,Foul,2--2,2--1,,,,2 Out,,6. Inning,Virginia Tech,Charleston Southern,,270;355,PITCH
+PITCH (163),2634840,17908,R2,02-16-2019,25 Carrie Eberle,R-Hand,74 Annie Bakenhus,L-Hand,,Foul,2--2,2--2,,,,2 Out,,6. Inning,Virginia Tech,Charleston Southern,,,PITCH
+PITCH (164),2652781,20782,R2,02-16-2019,25 Carrie Eberle,R-Hand,74 Annie Bakenhus,L-Hand,,WP-PB,3--2,3--2,,,,2 Out,,6. Inning,Virginia Tech,Charleston Southern,,,PITCH
+PITCH (165),2673597,22534,NO CHANGE,02-16-2019,25 Carrie Eberle,R-Hand,74 Annie Bakenhus,L-Hand,UPM,Ball in Play,,3--2,2B3,,,2 Out,,6. Inning,Virginia Tech,Charleston Southern,288;229,128;2,PITCH
+PITCH (166),2696164,5987,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,4 Darby Trull,L-Hand,MR,Ball,1--0,0--0,,,,0 Out,,7. Inning,Charleston Southern,Virginia Tech,,323;233,PITCH
+PITCH (167),2702185,24294,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,4 Darby Trull,L-Hand,UPM,Ball,2--0,1--0,,,,0 Out,,7. Inning,Charleston Southern,Virginia Tech,,176;14,PITCH
+PITCH (168),2726512,5623,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,4 Darby Trull,L-Hand,ML,Ball,3--0,2--0,,,,0 Out,,7. Inning,Charleston Southern,Virginia Tech,,141;263,PITCH
+PITCH (169),2732168,18956,Bases Empty,02-16-2019,4 Holly Clark,R-Hand,4 Darby Trull,L-Hand,UPM,Ball,Walk,3--0,,,,0 Out,,7. Inning,Charleston Southern,Virginia Tech,,223;109,PITCH
+PITCH (170),2751157,24853,R1,02-16-2019,4 Holly Clark,R-Hand,6 Lauren Duff,R-Hand,MM,Strike Called,0--1,0--0,,,,0 Out,,7. Inning,Charleston Southern,Virginia Tech,,264;262,PITCH
+PITCH (171),2776043,14546,R1,02-16-2019,4 Holly Clark,R-Hand,6 Lauren Duff,R-Hand,LL,Ball,1--1,0--1,,,,0 Out,,7. Inning,Charleston Southern,Virginia Tech,,160;352,PITCH
+PITCH (172),2790622,24889,R1,02-16-2019,4 Holly Clark,R-Hand,6 Lauren Duff,R-Hand,,Foul,1--2,1--1,,,,0 Out,,7. Inning,Charleston Southern,Virginia Tech,,,PITCH
+PITCH (173),2815545,33020,R1,02-16-2019,4 Holly Clark,R-Hand,6 Lauren Duff,R-Hand,,Ball in Play,,1--2,DCF2,Double,1 RBI,0 Out,,7. Inning,Charleston Southern,Virginia Tech,306;51,,PITCH
+PITCH (174),2848598,27480,R2,02-16-2019,4 Holly Clark,R-Hand,13 Caitlyn Nolan,R-Hand,,Ball in Play,,0--0,MCF1,Single,,0 Out,,7. Inning,Charleston Southern,Virginia Tech,225;115,,PITCH
+PITCH (175),2876112,27051,R13,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,LR,Ball,1--0,0--0,,,,0 Out,,7. Inning,Charleston Southern,Virginia Tech,,341;326,PITCH
+PITCH (176),2903196,6078,R23,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,MR,Foul,1--1,1--0,,,,0 Out,,7. Inning,Charleston Southern,Virginia Tech,,329;250,PITCH
+PITCH (177),2909308,32717,R23,02-16-2019,4 Holly Clark,R-Hand,14 Emma Strouth,R-Hand,ML,Ball in Play,,1--1,2B3,Ground Out,1 RBI,0 Out,,7. Inning,Charleston Southern,Virginia Tech,287;250,140;235,PITCH
+PITCH (178),2942058,20140,R3,02-16-2019,4 Holly Clark,R-Hand,8 Kelsey Bennett,R-Hand,MM,Ball in Play,,0--0,DCF1,Fly Out,,1 Out,,7. Inning,Charleston Southern,Virginia Tech,249;82,249;257,PITCH
+PITCH (179),2962232,19833,R3,02-16-2019,4 Holly Clark,R-Hand,2 Jayme Bailey,R-Hand,MM,Ball in Play,,0--0,DLF,Fly Out,,2 Out,,7. Inning,Charleston Southern,Virginia Tech,105;140,250;238,PITCH
+PITCH (180),2982098,9897,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,33 Brooklynn Brewington,L-Hand,DOWNM,Ball,1--0,0--0,,,,0 Out,,7. Inning,Virginia Tech,Charleston Southern,,110;459,PITCH
+PITCH (181),2992029,10432,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,42 Jade Gandara,L-Hand,MR,Strike Swinging,1--1,1--0,,,,0 Out,,7. Inning,Virginia Tech,Charleston Southern,,383;301,PITCH
+PITCH (182),3002494,15093,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,42 Jade Gandara,L-Hand,LL,Ball in Play,,1--1,SS3,Ground Out,,0 Out,,7. Inning,Virginia Tech,Charleston Southern,210;211,183;345,PITCH
+PITCH (183),3017621,11606,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,21 Cailtlyn Emberson,R-Hand,LM,Strike Swinging,0--1,0--0,,,,1 Out,,7. Inning,Virginia Tech,Charleston Southern,,269;360,PITCH
+PITCH (184),3029261,13766,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,21 Cailtlyn Emberson,R-Hand,UPL,Foul,0--2,0--1,,,,1 Out,,7. Inning,Virginia Tech,Charleston Southern,,158;191,PITCH
+PITCH (185),3043060,12582,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,21 Cailtlyn Emberson,R-Hand,LM,Strike Called,Strikeout,0--2,,,,1 Out,,7. Inning,Virginia Tech,Charleston Southern,,292;370,PITCH
+PITCH (186),3055675,12848,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,10 Sierra Brown,R-Hand,UPR,Strike Called,0--1,0--0,,,,2 Out,,7. Inning,Virginia Tech,Charleston Southern,,368;181,PITCH
+PITCH (187),3068557,15686,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,10 Sierra Brown,R-Hand,UPM,Foul,0--2,0--1,,,,2 Out,,7. Inning,Virginia Tech,Charleston Southern,,237;157,PITCH
+PITCH (188),3084276,12341,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,10 Sierra Brown,R-Hand,MR,Foul,0--2,0--2,,,,2 Out,,7. Inning,Virginia Tech,Charleston Southern,,360;203,PITCH
+PITCH (189),3096650,9366,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,10 Sierra Brown,R-Hand,UPM,Ball,1--2,0--2,,,,2 Out,,7. Inning,Virginia Tech,Charleston Southern,,335;53,PITCH
+PITCH (190),3106049,15050,Bases Empty,02-16-2019,25 Carrie Eberle,R-Hand,10 Sierra Brown,R-Hand,LL,Ball in Play,,1--2,SS3,Ground Out,,2 Out,,7. Inning,Virginia Tech,Charleston Southern,205;255,196;303,PITCH

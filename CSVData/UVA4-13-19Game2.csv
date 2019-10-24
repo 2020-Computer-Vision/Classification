@@ -1,0 +1,224 @@
+﻿Name,Position,Duration,1. Baserunning Situation,1. Date,1. Pitchers Name,1. Pitchers Side,2. Hitters Name,2. Hitters Side,4. Pitch Location,5. Catcher Throw Down,5. Game Pitch Result,6. Pitch Count,6. Previous Pitch Count,8. Hit Location,8. Hit Results,8. RBI,8. Well Hit,9. Outs,Hitting Position,Period,Team 1. Pitchers Name,Team 2. Hitters Name,XY Hit Location,XY Pitch Location,Z-Game Details
+PITCH (1),0,8400,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,17 Hayley Busby,R-Hand,UPL,,Strike Called,0--1,0--0,,,,,0 Out,,1. Inning,Virginia Tech,UVA,,114;139,PITCH
+PITCH (2),8433,8882,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,17 Hayley Busby,R-Hand,ML,,Strike Called,0--2,0--1,,,,,0 Out,,1. Inning,Virginia Tech,UVA,,110;228,PITCH
+PITCH (3),17348,9381,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,17 Hayley Busby,R-Hand,LEFTM,,Ball,1--2,0--2,,,,,0 Out,,1. Inning,Virginia Tech,UVA,,88;328,PITCH
+PITCH (4),26763,13051,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,17 Hayley Busby,R-Hand,ML,,Foul,1--2,1--2,,,,,0 Out,,1. Inning,Virginia Tech,UVA,,187;246,PITCH
+PITCH (5),39847,10056,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,17 Hayley Busby,R-Hand,LL,,Foul,1--2,1--2,,,,,0 Out,,1. Inning,Virginia Tech,UVA,,131;357,PITCH
+PITCH (6),49936,16825,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,17 Hayley Busby,R-Hand,LL,,Ball in Play,,1--2,2B3,Fly Out,,,0 Out,,1. Inning,Virginia Tech,UVA,274;246,145;321,PITCH
+PITCH (7),66794,9954,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,LL,,Strike Called,0--1,0--0,,,,,1 Out,,1. Inning,Virginia Tech,UVA,,138;311,PITCH
+PITCH (8),76782,9501,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,UPM,,Ball,1--1,0--1,,,,,1 Out,,1. Inning,Virginia Tech,UVA,,86;28,PITCH
+PITCH (9),86316,10650,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,ML,,Strike Called,1--2,1--1,,,,,1 Out,,1. Inning,Virginia Tech,UVA,,105;288,PITCH
+PITCH (10),97000,10293,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,DOWNM,,Ball,2--2,1--2,,,,,1 Out,,1. Inning,Virginia Tech,UVA,,154;439,PITCH
+PITCH (11),107326,9091,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,LEFTM,,Ball,3--2,2--2,,,,,1 Out,,1. Inning,Virginia Tech,UVA,,95;384,PITCH
+PITCH (12),116450,7999,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,LL,,Foul,3--2,3--2,,,,,1 Out,,1. Inning,Virginia Tech,UVA,,126;346,PITCH
+PITCH (13),124483,9484,NO CHANGE,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,LR,,Strike Swinging,Strikeout,3--2,,,,,1 Out,,1. Inning,Virginia Tech,UVA,,391;375,PITCH
+PITCH (14),134000,10323,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,4 Tori Gilbert,R-Hand,UPM,,Strike Called,0--1,0--0,,,,,2 Out,,1. Inning,Virginia Tech,UVA,,248;130,PITCH
+PITCH (15),144357,8449,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,4 Tori Gilbert,R-Hand,UPR,,Strike Called,0--2,0--1,,,,,2 Out,,1. Inning,Virginia Tech,UVA,,332;115,PITCH
+PITCH (16),152839,9714,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,4 Tori Gilbert,R-Hand,UPM,,Ball,1--2,0--2,,,,,2 Out,,1. Inning,Virginia Tech,UVA,,161;39,PITCH
+PITCH (17),162586,9874,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,4 Tori Gilbert,R-Hand,LR,,Foul,1--2,1--2,,,,,2 Out,,1. Inning,Virginia Tech,UVA,,392;373,PITCH
+PITCH (18),172494,12166,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,4 Tori Gilbert,R-Hand,LL,,Strike Called,Strikeout,1--2,,,,,2 Out,,1. Inning,Virginia Tech,UVA,,152;375,PITCH
+PITCH (19),184693,9032,Bases Empty,04-13-2019,18 Aly Rayle,R-Hand,2 Jayme Bailey,R-Hand,UPM,,Ball,1--0,0--0,,,,,0 Out,,1. Inning,UVA,Virginia Tech,,180;48,PITCH
+PITCH (20),193759,15669,Bases Empty,04-13-2019,18 Aly Rayle,R-Hand,2 Jayme Bailey,R-Hand,ML,,Ball in Play,,1--0,DCF2,Fly Out,,,0 Out,,1. Inning,UVA,Virginia Tech,307;28,133;284,PITCH
+PITCH (21),209461,11749,Bases Empty,04-13-2019,18 Aly Rayle,R-Hand,9 Al Velazquez,L-Hand,RIGHTM,,Ball,1--0,0--0,,,,,1 Out,,1. Inning,UVA,Virginia Tech,,427;299,PITCH
+PITCH (22),221243,9604,Bases Empty,04-13-2019,18 Aly Rayle,R-Hand,9 Al Velazquez,L-Hand,LR,,Strike Called,1--1,1--0,,,,,1 Out,,1. Inning,UVA,Virginia Tech,,398;342,PITCH
+PITCH (23),230880,14105,Bases Empty,04-13-2019,18 Aly Rayle,R-Hand,9 Al Velazquez,L-Hand,UPR,,Ball in Play,,1--1,SCF1,Single,,,1 Out,,1. Inning,UVA,Virginia Tech,208;146,386;175,PITCH
+PITCH (24),245019,8688,R1,04-13-2019,18 Aly Rayle,R-Hand,13 Caitlyn Nolan,R-Hand,DOWNM,,Ball,1--0,0--0,,,,,1 Out,,1. Inning,UVA,Virginia Tech,,79;431,PITCH
+PITCH (25),253740,8940,R1,04-13-2019,18 Aly Rayle,R-Hand,13 Caitlyn Nolan,R-Hand,UPM,,Ball,2--0,1--0,,,,,1 Out,,1. Inning,UVA,Virginia Tech,,55;61,PITCH
+PITCH (26),262713,9496,R1,04-13-2019,18 Aly Rayle,R-Hand,13 Caitlyn Nolan,R-Hand,ML,,Foul,2--1,2--0,,,,,1 Out,,1. Inning,UVA,Virginia Tech,,129;302,PITCH
+PITCH (27),272243,10273,R1,04-13-2019,18 Aly Rayle,R-Hand,13 Caitlyn Nolan,R-Hand,LL,,Strike Called,2--2,2--1,,,,,1 Out,,1. Inning,UVA,Virginia Tech,,112;324,PITCH
+PITCH (28),282549,10872,R1,04-13-2019,18 Aly Rayle,R-Hand,13 Caitlyn Nolan,R-Hand,ML,,Foul,2--2,2--2,,,,,1 Out,,1. Inning,UVA,Virginia Tech,,122;286,PITCH
+PITCH (29),293455,18292,R1,04-13-2019,18 Aly Rayle,R-Hand,13 Caitlyn Nolan,R-Hand,ML,Catcher Throw Safe,Ball in Play,,2--2,DRCF,Fly Out,,,1 Out,,1. Inning,UVA,Virginia Tech,319;67,183;257,PITCH
+PITCH (30),311780,7288,R2,04-13-2019,18 Aly Rayle,R-Hand,14 Emma Strouth,R-Hand,DOWNM,,Ball,1--0,0--0,,,,,2 Out,,1. Inning,UVA,Virginia Tech,,93;433,PITCH
+PITCH (31),319102,16326,R2,04-13-2019,18 Aly Rayle,R-Hand,14 Emma Strouth,R-Hand,LL,,Ball in Play,,1--0,DCF1,Double,1 RBI,,2 Out,,1. Inning,UVA,Virginia Tech,194;51,117;330,PITCH
+PITCH (32),335461,9645,R2,04-13-2019,18 Aly Rayle,R-Hand,8 Kelsey Bennett,R-Hand,UPM,,Ball,1--0,0--0,,,,,2 Out,,1. Inning,UVA,Virginia Tech,,138;57,PITCH
+PITCH (33),345140,23169,R2,04-13-2019,18 Aly Rayle,R-Hand,8 Kelsey Bennett,R-Hand,MM,,Ball in Play,,1--0,DCF1,ROE,1 RBI,,2 Out,,1. Inning,UVA,Virginia Tech,211;42,208;213,PITCH
+PITCH (34),368342,10741,R3,04-13-2019,18 Aly Rayle,R-Hand,28 Grace Chavez,R-Hand,LEFTM,,Strike Called,0--1,0--0,,,,,2 Out,,1. Inning,UVA,Virginia Tech,,96;341,PITCH
+PITCH (35),379117,8717,R3,04-13-2019,18 Aly Rayle,R-Hand,28 Grace Chavez,R-Hand,LEFTM,,Ball,1--1,0--1,,,,,2 Out,,1. Inning,UVA,Virginia Tech,,63;179,PITCH
+PITCH (36),387867,8846,R3,04-13-2019,18 Aly Rayle,R-Hand,28 Grace Chavez,R-Hand,LL,,Strike Swinging,1--2,1--1,,,,,2 Out,,1. Inning,UVA,Virginia Tech,,110;373,PITCH
+PITCH (37),396746,6470,R3,04-13-2019,18 Aly Rayle,R-Hand,28 Grace Chavez,R-Hand,,,,,,,,,,2 Out,,1. Inning,UVA,Virginia Tech,,,PITCH
+PITCH (38),403250,10096,R3,04-13-2019,18 Aly Rayle,R-Hand,28 Grace Chavez,R-Hand,LL,,Foul,1--2,1--2,,,,,2 Out,,1. Inning,UVA,Virginia Tech,,115;326,PITCH
+PITCH (39),413379,9208,R3,04-13-2019,18 Aly Rayle,R-Hand,28 Grace Chavez,R-Hand,DOWNM,,Ball,2--2,1--2,,,,,2 Out,,1. Inning,UVA,Virginia Tech,,110;431,PITCH
+PITCH (40),422621,14533,R3,04-13-2019,18 Aly Rayle,R-Hand,28 Grace Chavez,R-Hand,ML,,Ball in Play,,2--2,SS3,Ground Out,,,2 Out,,1. Inning,UVA,Virginia Tech,201;214,117;253,PITCH
+PITCH (41),437187,6188,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,88 Olivia Gott,R-Hand,LL,,Foul,0--1,0--0,,,,,0 Out,,2. Inning,Virginia Tech,UVA,,178;315,PITCH
+PITCH (42),443408,8397,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,88 Olivia Gott,R-Hand,LL,,Strike Called,0--2,0--1,,,,,0 Out,,2. Inning,Virginia Tech,UVA,,175;311,PITCH
+PITCH (43),451838,7659,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,88 Olivia Gott,R-Hand,UPM,,Ball,1--2,0--2,,,,,0 Out,,2. Inning,Virginia Tech,UVA,,109;33,PITCH
+PITCH (44),459531,8989,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,88 Olivia Gott,R-Hand,ML,,Foul,1--2,1--2,,,,,0 Out,,2. Inning,Virginia Tech,UVA,,129;255,PITCH
+PITCH (45),468553,10743,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,88 Olivia Gott,R-Hand,UPM,,Ball,2--2,1--2,,,,,0 Out,,2. Inning,Virginia Tech,UVA,,225;84,PITCH
+PITCH (46),479328,13197,NO CHANGE,04-13-2019,25 Carrie Eberle,R-Hand,88 Olivia Gott,R-Hand,UPR,,Strike Swinging,Strikeout,2--2,,,,,0 Out,,2. Inning,Virginia Tech,UVA,,354;155,PITCH
+PITCH (47),492558,9648,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,19 Erika Osherow,R-Hand,LEFTM,,Ball,1--0,0--0,,,,,1 Out,,2. Inning,Virginia Tech,UVA,,91;384,PITCH
+PITCH (48),502240,9956,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,19 Erika Osherow,R-Hand,UPL,,Foul,1--1,1--0,,,,,1 Out,,2. Inning,Virginia Tech,UVA,,197;175,PITCH
+PITCH (49),512230,7444,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,19 Erika Osherow,R-Hand,LR,,Foul,1--2,1--1,,,,,1 Out,,2. Inning,Virginia Tech,UVA,,347;330,PITCH
+PITCH (50),519707,12391,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,19 Erika Osherow,R-Hand,LL,,Ball,2--2,1--2,,,,,1 Out,,2. Inning,Virginia Tech,UVA,,133;395,PITCH
+PITCH (51),532132,14376,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,19 Erika Osherow,R-Hand,MR,,Ball in Play,,2--2,3B2,Ground Out,,,1 Out,,2. Inning,Virginia Tech,UVA,192;279,384;217,PITCH
+PITCH (52),546542,7850,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,14 Abigail Barber,L-Hand,DOWNM,,Ball,1--0,0--0,,,,,2 Out,,2. Inning,Virginia Tech,UVA,,361;446,PITCH
+PITCH (53),554425,8971,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,14 Abigail Barber,L-Hand,UPR,,Strike Swinging,1--1,1--0,,,,,2 Out,,2. Inning,Virginia Tech,UVA,,314;104,PITCH
+PITCH (54),563429,8711,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,14 Abigail Barber,L-Hand,MR,,Foul,1--2,1--1,,,,,2 Out,,2. Inning,Virginia Tech,UVA,,380;211,PITCH
+PITCH (55),572173,8961,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,14 Abigail Barber,L-Hand,RIGHTM,,Ball,2--2,1--2,,,,,2 Out,,2. Inning,Virginia Tech,UVA,,438;393,PITCH
+PITCH (56),581168,15969,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,14 Abigail Barber,L-Hand,LR,,Ball in Play,,2--2,SCF2,Single,,,2 Out,,2. Inning,Virginia Tech,UVA,270;168,389;339,PITCH
+PITCH (57),597170,8829,NO CHANGE,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,MR,,Foul,0--1,0--0,,,,,2 Out,,2. Inning,Virginia Tech,UVA,,342;237,PITCH
+PITCH (58),606033,8273,R1,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,LL,,Strike Called,0--2,0--1,,,,,2 Out,,2. Inning,Virginia Tech,UVA,,117;342,PITCH
+PITCH (59),614339,7819,R1,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,LEFTM,,Ball,1--2,0--2,,,,,2 Out,,2. Inning,Virginia Tech,UVA,,75;282,PITCH
+PITCH (60),622191,7602,R1,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,UPM,,Ball,2--2,1--2,,,,,2 Out,,2. Inning,Virginia Tech,UVA,,187;51,PITCH
+PITCH (61),629827,9671,R1,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,ML,,Foul,2--2,2--2,,,,,2 Out,,2. Inning,Virginia Tech,UVA,,122;271,PITCH
+PITCH (62),639531,8015,R1,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,ML,,Foul,2--2,2--2,,,,,2 Out,,2. Inning,Virginia Tech,UVA,,156;224,PITCH
+PITCH (63),647579,8871,R1,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,LR,,Strike Swinging,Strikeout,2--2,,,,,2 Out,,2. Inning,Virginia Tech,UVA,,379;371,PITCH
+PITCH (64),656484,6957,Bases Empty,04-13-2019,18 Aly Rayle,R-Hand,18 Mackenzie Lawter,R-Hand,DOWNM,,Ball,1--0,0--0,,,,,0 Out,,2. Inning,UVA,Virginia Tech,,96;431,PITCH
+PITCH (65),663475,14636,Bases Empty,04-13-2019,18 Aly Rayle,R-Hand,18 Mackenzie Lawter,R-Hand,ML,,Ball in Play,,1--0,Home Run CF2,Home Run,,Well Hit Ball,0 Out,,2. Inning,UVA,Virginia Tech,,119;284,PITCH
+PITCH (66),678144,7390,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,4 Darby Trull,L-Hand,UPR,,Strike Called,0--1,0--0,,,,,0 Out,,2. Inning,UVA,Virginia Tech,,389;177,PITCH
+PITCH (67),685567,8112,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,4 Darby Trull,L-Hand,MR,,Strike Called,0--2,0--1,,,,,0 Out,,2. Inning,UVA,Virginia Tech,,352;219,PITCH
+PITCH (68),693712,6727,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,4 Darby Trull,L-Hand,DOWNM,,Ball,1--2,0--2,,,,,0 Out,,2. Inning,UVA,Virginia Tech,,445;419,PITCH
+PITCH (69),700473,13138,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,4 Darby Trull,L-Hand,LR,,Strike Called,Strikeout,1--2,,,,,0 Out,,2. Inning,UVA,Virginia Tech,,394;317,PITCH
+PITCH (70),713644,10922,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,29 Maddi Banks,L-Hand,LR,,Ball,1--0,0--0,,,,,1 Out,Bunt Attempt,2. Inning,UVA,Virginia Tech,,392;344,PITCH
+PITCH (71),724599,7117,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,29 Maddi Banks,L-Hand,RIGHTM,,Ball,2--0,1--0,,,,,1 Out,,2. Inning,UVA,Virginia Tech,,434;317,PITCH
+PITCH (72),731750,9058,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,29 Maddi Banks,L-Hand,MR,,Foul,2--1,2--0,,,,,1 Out,,2. Inning,UVA,Virginia Tech,,382;213,PITCH
+PITCH (73),740841,9357,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,29 Maddi Banks,L-Hand,LR,,Strike Called,2--2,2--1,,,,,1 Out,,2. Inning,UVA,Virginia Tech,,386;359,PITCH
+PITCH (74),750231,9173,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,29 Maddi Banks,L-Hand,MR,,Foul,2--2,2--2,,,,,1 Out,,2. Inning,UVA,Virginia Tech,,377;251,PITCH
+PITCH (75),759437,8037,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,29 Maddi Banks,L-Hand,UPR,,Foul,2--2,2--2,,,,,1 Out,,2. Inning,UVA,Virginia Tech,,386;191,PITCH
+PITCH (76),767508,8135,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,29 Maddi Banks,L-Hand,UPM,,Strike Swinging,Strikeout,2--2,,,,,1 Out,,2. Inning,UVA,Virginia Tech,,337;53,PITCH
+PITCH (77),775676,7299,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,2 Jayme Bailey,R-Hand,ML,,Strike Called,0--1,0--0,,,,,2 Out,,2. Inning,UVA,Virginia Tech,,109;211,PITCH
+PITCH (78),783008,17265,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,2 Jayme Bailey,R-Hand,ML,,Ball in Play,,0--1,MLF,Double,,,2 Out,,2. Inning,UVA,Virginia Tech,416;157,124;281,PITCH
+PITCH (79),800306,9115,R2,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,MR,,Strike Swinging,0--1,0--0,,,,,2 Out,,2. Inning,UVA,Virginia Tech,,386;246,PITCH
+PITCH (80),809454,8328,R2,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,RIGHTM,,Strike Called,0--2,0--1,,,,,2 Out,,2. Inning,UVA,Virginia Tech,,405;231,PITCH
+PITCH (81),817816,8804,R2,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,RIGHTM,,Ball,1--2,0--2,,,,,2 Out,,2. Inning,UVA,Virginia Tech,,422;335,PITCH
+PITCH (82),826653,7407,R2,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,DOWNM,,Ball,2--2,1--2,,,,,2 Out,,2. Inning,UVA,Virginia Tech,,450;470,PITCH
+PITCH (83),834094,8287,R2,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,LR,,Foul,2--2,2--2,,,,,2 Out,,2. Inning,UVA,Virginia Tech,,372;306,PITCH
+PITCH (84),842414,8935,R2,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,RIGHTM,,Ball,3--2,2--2,,,,,2 Out,,2. Inning,UVA,Virginia Tech,,426;399,PITCH
+PITCH (85),851383,8809,R2,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,LR,,Foul,3--2,3--2,,,,,2 Out,,2. Inning,UVA,Virginia Tech,,366;330,PITCH
+PITCH (86),860226,13371,NO CHANGE,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,LR,,Ball in Play,,3--2,SS3,Ground Out,,,2 Out,,2. Inning,UVA,Virginia Tech,198;240,396;346,PITCH
+PITCH (87),873630,12882,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,27 Arizona Ritchie,R-Hand,LL,,Ball in Play,,0--0,2B3,Fly Out,,,0 Out,,3. Inning,Virginia Tech,UVA,294;216,143;315,PITCH
+PITCH (88),886545,9233,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,10 Kate Covington,R-Hand,LM,,Strike Called,0--1,0--0,,,,,1 Out,,3. Inning,Virginia Tech,UVA,,223;364,PITCH
+PITCH (89),895811,7604,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,10 Kate Covington,R-Hand,UPM,,Ball,1--1,0--1,,,,,1 Out,,3. Inning,Virginia Tech,UVA,,163;22,PITCH
+PITCH (90),903448,8727,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,10 Kate Covington,R-Hand,LEFTM,,Ball,2--1,1--1,,,,,1 Out,,3. Inning,Virginia Tech,UVA,,88;244,PITCH
+PITCH (91),912209,8917,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,10 Kate Covington,R-Hand,LL,,Foul,2--2,2--1,,,,,1 Out,,3. Inning,Virginia Tech,UVA,,115;339,PITCH
+PITCH (92),921160,8560,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,10 Kate Covington,R-Hand,LL,,Foul,2--2,2--2,,,,,1 Out,,3. Inning,Virginia Tech,UVA,,128;341,PITCH
+PITCH (93),929753,12503,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,10 Kate Covington,R-Hand,LR,,Foul,2--2,2--2,,,,,1 Out,,3. Inning,Virginia Tech,UVA,,354;362,PITCH
+PITCH (94),942290,8754,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,10 Kate Covington,R-Hand,MR,,Foul,2--2,2--2,,,,,1 Out,,3. Inning,Virginia Tech,UVA,,377;266,PITCH
+PITCH (95),951077,8565,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,10 Kate Covington,R-Hand,LR,,Foul,2--2,2--2,,,,,1 Out,,3. Inning,Virginia Tech,UVA,,370;350,PITCH
+PITCH (96),959675,9966,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,10 Kate Covington,R-Hand,ML,,Strike Called,Strikeout,2--2,,,,,1 Out,,3. Inning,Virginia Tech,UVA,,119;253,PITCH
+PITCH (97),969674,14588,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,17 Hayley Busby,R-Hand,LL,,Ball in Play,,0--0,2B3,Single,,,2 Out,,3. Inning,Virginia Tech,UVA,301;193,126;326,PITCH
+PITCH (98),984295,7630,R1,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,DOWNM,,Ball,1--0,0--0,,,,,2 Out,,3. Inning,Virginia Tech,UVA,,180;441,PITCH
+PITCH (99),991959,8868,R1,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,MR,,Foul,1--1,1--0,,,,,2 Out,,3. Inning,Virginia Tech,UVA,,326;270,PITCH
+PITCH (100),1000860,13246,R1,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,LL,,Ball in Play,,1--1,SRCF,Single,,,2 Out,,3. Inning,Virginia Tech,UVA,338;167,122;319,PITCH
+PITCH (101),1014139,8735,R12,04-13-2019,25 Carrie Eberle,R-Hand,4 Tori Gilbert,R-Hand,LEFTM,,Ball,1--0,0--0,,,,,2 Out,,3. Inning,Virginia Tech,UVA,,86;339,PITCH
+PITCH (102),1022908,12700,R12,04-13-2019,25 Carrie Eberle,R-Hand,4 Tori Gilbert,R-Hand,ML,,Ball in Play,,1--0,SRCF,Fly Out,,,2 Out,,3. Inning,Virginia Tech,UVA,361;139,133;253,PITCH
+PITCH (103),1035641,7710,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,LL,,Foul,0--1,0--0,,,,,0 Out,,3. Inning,UVA,Virginia Tech,,117;346,PITCH
+PITCH (104),1043384,8202,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,LEFTM,,Ball,1--1,0--1,,,,,0 Out,,3. Inning,UVA,Virginia Tech,,68;322,PITCH
+PITCH (105),1051620,6537,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,LEFTM,,Ball,2--1,1--1,,,,,0 Out,,3. Inning,UVA,Virginia Tech,,63;346,PITCH
+PITCH (106),1058190,6633,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,LL,,Foul,2--2,2--1,,,,,0 Out,,3. Inning,UVA,Virginia Tech,,135;326,PITCH
+PITCH (107),1064856,7486,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,LEFTM,,Ball,3--2,2--2,,,,,0 Out,,3. Inning,UVA,Virginia Tech,,74;221,PITCH
+PITCH (108),1072376,10792,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,LL,,Ball in Play,,3--2,MCF2,Single,,,0 Out,,3. Inning,UVA,Virginia Tech,288;128,135;350,PITCH
+PITCH (109),1083202,7671,R1,04-13-2019,12 Allyson Frei,R-Hand,14 Emma Strouth,R-Hand,LL,,Foul,0--1,0--0,,,,,0 Out,,3. Inning,UVA,Virginia Tech,,107;331,PITCH
+PITCH (110),1090905,6839,R1,04-13-2019,12 Allyson Frei,R-Hand,14 Emma Strouth,R-Hand,DOWNM,,Ball,1--1,0--1,,,,,0 Out,,3. Inning,UVA,Virginia Tech,,70;441,PITCH
+PITCH (111),1097777,8161,R1,04-13-2019,12 Allyson Frei,R-Hand,14 Emma Strouth,R-Hand,LR,,Strike Called,1--2,1--1,,,,,0 Out,,3. Inning,UVA,Virginia Tech,,377;350,PITCH
+PITCH (112),1105971,7864,R1,04-13-2019,12 Allyson Frei,R-Hand,14 Emma Strouth,R-Hand,LEFTM,,Strike Swinging,Strikeout,1--2,,,,,0 Out,,3. Inning,UVA,Virginia Tech,,68;341,PITCH
+PITCH (113),1113869,8279,R1,04-13-2019,12 Allyson Frei,R-Hand,8 Kelsey Bennett,R-Hand,ML,,Strike Called,0--1,0--0,,,,,1 Out,,3. Inning,UVA,Virginia Tech,,138;230,PITCH
+PITCH (114),1122181,8380,R1,04-13-2019,12 Allyson Frei,R-Hand,8 Kelsey Bennett,R-Hand,MR,,Foul,0--2,0--1,,,,,1 Out,,3. Inning,UVA,Virginia Tech,,358;250,PITCH
+PITCH (115),1130594,11588,R1,04-13-2019,12 Allyson Frei,R-Hand,8 Kelsey Bennett,R-Hand,UPM,,Ball,1--2,0--2,,,,,1 Out,,3. Inning,UVA,Virginia Tech,,427;37,PITCH
+PITCH (116),1142215,7751,R1,04-13-2019,12 Allyson Frei,R-Hand,8 Kelsey Bennett,R-Hand,UPM,,Ball,2--2,1--2,,,,,1 Out,,3. Inning,UVA,Virginia Tech,,189;30,PITCH
+PITCH (117),1150000,6963,R1,04-13-2019,12 Allyson Frei,R-Hand,8 Kelsey Bennett,R-Hand,DOWNM,,Ball,3--2,2--2,,,,,1 Out,,3. Inning,UVA,Virginia Tech,,424;437,PITCH
+PITCH (118),1156996,14260,R1,04-13-2019,12 Allyson Frei,R-Hand,8 Kelsey Bennett,R-Hand,MR,,Ball in Play,,3--2,SCF1,Fly Out,,,1 Out,,3. Inning,UVA,Virginia Tech,197;165,321;268,PITCH
+PITCH (119),1171289,9856,R1,04-13-2019,12 Allyson Frei,R-Hand,28 Grace Chavez,R-Hand,DOWNM,,Strike Called,0--1,0--0,,,,,2 Out,,3. Inning,UVA,Virginia Tech,,82;417,PITCH
+PITCH (120),1181179,6888,R1,04-13-2019,12 Allyson Frei,R-Hand,28 Grace Chavez,R-Hand,DOWNM,,Ball,1--1,0--1,,,,,2 Out,,3. Inning,UVA,Virginia Tech,,163;431,PITCH
+PITCH (121),1188100,11916,R1,04-13-2019,12 Allyson Frei,R-Hand,28 Grace Chavez,R-Hand,LL,,Foul,1--2,1--1,,,,,2 Out,,3. Inning,UVA,Virginia Tech,,149;386,PITCH
+PITCH (122),1200049,10396,R1,04-13-2019,12 Allyson Frei,R-Hand,28 Grace Chavez,R-Hand,DOWNM,,Strike Swinging,Strikeout,1--2,,,,,2 Out,,3. Inning,UVA,Virginia Tech,,91;413,PITCH
+PITCH (123),1210479,8504,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,88 Olivia Gott,R-Hand,UPM,,Strike Swinging,0--1,0--0,,,,,0 Out,,4. Inning,Virginia Tech,UVA,,244;124,PITCH
+PITCH (124),1219016,9437,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,88 Olivia Gott,R-Hand,UPM,,Ball,1--1,0--1,,,,,0 Out,,4. Inning,Virginia Tech,UVA,,382;79,PITCH
+PITCH (125),1228486,12615,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,88 Olivia Gott,R-Hand,MR,,Ball in Play,,1--1,FB3B,Fly Out,,,0 Out,,4. Inning,Virginia Tech,UVA,185;320,377;259,PITCH
+PITCH (126),1241134,9749,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,19 Erika Osherow,R-Hand,LL,,Strike Called,0--1,0--0,,,,,1 Out,,4. Inning,Virginia Tech,UVA,,142;361,PITCH
+PITCH (127),1250917,8472,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,19 Erika Osherow,R-Hand,LEFTM,,Ball,1--1,0--1,,,,,1 Out,,4. Inning,Virginia Tech,UVA,,93;295,PITCH
+PITCH (128),1259422,12177,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,19 Erika Osherow,R-Hand,LL,,Ball in Play,,1--1,DCF2,Fly Out,,,1 Out,,4. Inning,Virginia Tech,UVA,308;71,117;319,PITCH
+PITCH (129),1271633,11118,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,14 Abigail Barber,L-Hand,UPM,,Strike Called,0--1,0--0,,,,,2 Out,,4. Inning,Virginia Tech,UVA,,286;124,PITCH
+PITCH (130),1282784,7932,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,14 Abigail Barber,L-Hand,UPM,,Ball,1--1,0--1,,,,,2 Out,,4. Inning,Virginia Tech,UVA,,323;81,PITCH
+PITCH (131),1290750,10533,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,14 Abigail Barber,L-Hand,MR,,Foul,1--2,1--1,,,,,2 Out,,4. Inning,Virginia Tech,UVA,,389;222,PITCH
+PITCH (132),1301316,9551,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,14 Abigail Barber,L-Hand,MR,,Foul,1--2,1--2,,,,,2 Out,,4. Inning,Virginia Tech,UVA,,387;288,PITCH
+PITCH (133),1310901,12605,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,14 Abigail Barber,L-Hand,LR,,Ball in Play,,1--2,DCF1,Fly Out,,,2 Out,,4. Inning,Virginia Tech,UVA,193;46,359;317,PITCH
+PITCH (134),1323540,13214,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,18 Mackenzie Lawter,R-Hand,LL,,Ball in Play,,0--0,SS3,Single,,,0 Out,,4. Inning,UVA,Virginia Tech,241;224,114;350,PITCH
+PITCH (135),1336786,7320,R1,04-13-2019,12 Allyson Frei,R-Hand,4 Darby Trull,L-Hand,DOWNM,,Ball,1--0,0--0,,,,,0 Out,,4. Inning,UVA,Virginia Tech,,399;446,PITCH
+PITCH (136),1344140,8417,R1,04-13-2019,12 Allyson Frei,R-Hand,4 Darby Trull,L-Hand,MR,,Strike Called,1--1,1--0,,,,,0 Out,,4. Inning,UVA,Virginia Tech,,384;242,PITCH
+PITCH (137),1352590,8834,R1,04-13-2019,12 Allyson Frei,R-Hand,4 Darby Trull,L-Hand,DOWNM,,Ball,2--1,1--1,,,,,0 Out,,4. Inning,UVA,Virginia Tech,,391;406,PITCH
+PITCH (138),1361457,15264,R1,04-13-2019,12 Allyson Frei,R-Hand,4 Darby Trull,L-Hand,LR,Catcher Throw Safe,Strike Called,2--2,2--1,,,,,0 Out,,4. Inning,UVA,Virginia Tech,,384;388,PITCH
+PITCH (139),1376755,8256,R2,04-13-2019,12 Allyson Frei,R-Hand,4 Darby Trull,L-Hand,MR,,Foul,2--2,2--2,,,,,0 Out,,4. Inning,UVA,Virginia Tech,,394;204,PITCH
+PITCH (140),1385044,13142,R2,04-13-2019,12 Allyson Frei,R-Hand,4 Darby Trull,L-Hand,LR,,Ball in Play,,2--2,SS3,Ground Out,,,0 Out,,4. Inning,UVA,Virginia Tech,210;234,387;331,PITCH
+PITCH (141),1398220,7752,R3,04-13-2019,12 Allyson Frei,R-Hand,29 Maddi Banks,L-Hand,DOWNM,,Ball,1--0,0--0,,,,,1 Out,,4. Inning,UVA,Virginia Tech,,424;421,PITCH
+PITCH (142),1406005,7148,R3,04-13-2019,12 Allyson Frei,R-Hand,29 Maddi Banks,L-Hand,LR,,Foul,1--1,1--0,,,,,1 Out,,4. Inning,UVA,Virginia Tech,,394;317,PITCH
+PITCH (143),1413186,9275,R3,04-13-2019,12 Allyson Frei,R-Hand,29 Maddi Banks,L-Hand,MR,,Foul,1--2,1--1,,,,,1 Out,Bunt Attempt,4. Inning,UVA,Virginia Tech,,386;291,PITCH
+PITCH (144),1422494,9824,R3,04-13-2019,12 Allyson Frei,R-Hand,29 Maddi Banks,L-Hand,RIGHTM,,Strike Swinging,Strikeout,1--2,,,,,1 Out,,4. Inning,UVA,Virginia Tech,,436;304,PITCH
+PITCH (145),1432351,8226,R3,04-13-2019,12 Allyson Frei,R-Hand,2 Jayme Bailey,R-Hand,LR,,Strike Called,0--1,0--0,,,,,2 Out,,4. Inning,UVA,Virginia Tech,,347;346,PITCH
+PITCH (146),1440610,6917,R3,04-13-2019,12 Allyson Frei,R-Hand,2 Jayme Bailey,R-Hand,DOWNM,,Ball,1--1,0--1,,,,,2 Out,,4. Inning,UVA,Virginia Tech,,126;451,PITCH
+PITCH (147),1447561,8280,R3,04-13-2019,12 Allyson Frei,R-Hand,2 Jayme Bailey,R-Hand,DOWNM,,Ball,2--1,1--1,,,,,2 Out,,4. Inning,UVA,Virginia Tech,,406;453,PITCH
+PITCH (148),1455874,7613,R3,04-13-2019,12 Allyson Frei,R-Hand,2 Jayme Bailey,R-Hand,DOWNM,,Ball,3--1,2--1,,,,,2 Out,,4. Inning,UVA,Virginia Tech,,417;413,PITCH
+PITCH (149),1463520,8403,R3,04-13-2019,12 Allyson Frei,R-Hand,2 Jayme Bailey,R-Hand,LL,,Foul,3--2,3--1,,,,,2 Out,,4. Inning,UVA,Virginia Tech,,114;315,PITCH
+PITCH (150),1471957,8693,R3,04-13-2019,12 Allyson Frei,R-Hand,2 Jayme Bailey,R-Hand,LR,,Foul,3--2,3--2,,,,,2 Out,,4. Inning,UVA,Virginia Tech,,377;351,PITCH
+PITCH (151),1480683,7274,NO CHANGE,04-13-2019,12 Allyson Frei,R-Hand,2 Jayme Bailey,R-Hand,UPL,,Strike Swinging,Strikeout,3--2,,,,,2 Out,,4. Inning,UVA,Virginia Tech,,126;175,PITCH
+PITCH (152),1487990,8975,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,LM,,Strike Swinging,0--1,0--0,,,,,0 Out,,5. Inning,Virginia Tech,UVA,,253;359,PITCH
+PITCH (153),1496999,9353,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,,,Foul,0--2,0--1,,,,,0 Out,,5. Inning,Virginia Tech,UVA,,262;102,PITCH
+PITCH (154),1506385,7643,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,LEFTM,,Ball,1--2,0--2,,,,,0 Out,,5. Inning,Virginia Tech,UVA,,70;364,PITCH
+PITCH (155),1514061,8468,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,DOWNM,,Ball,2--2,1--2,,,,,0 Out,,5. Inning,Virginia Tech,UVA,,413;430,PITCH
+PITCH (156),1522562,14438,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,LL,,Ball in Play,,2--2,2B3,Ground Out,,,0 Out,,5. Inning,Virginia Tech,UVA,297;224,126;319,PITCH
+PITCH (157),1537034,12791,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,27 Arizona Ritchie,R-Hand,LL,,Ball in Play,,0--0,PF,Ground Out,,,1 Out,,5. Inning,Virginia Tech,UVA,246;301,135;339,PITCH
+PITCH (158),1549858,20990,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,10 Kate Covington,R-Hand,LL,,Ball in Play,,0--0,2B3,ROE,,,2 Out,,5. Inning,Virginia Tech,UVA,272;193,126;333,PITCH
+PITCH (159),1570881,14738,R1,04-13-2019,25 Carrie Eberle,R-Hand,17 Hayley Busby,R-Hand,LL,,Ball in Play,,0--0,DLF,Fly Out,,,2 Out,,5. Inning,Virginia Tech,UVA,116;62,129;328,PITCH
+PITCH (160),1585652,8809,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,RIGHTM,,Strike Called,0--1,0--0,,,,,0 Out,,5. Inning,UVA,Virginia Tech,,408;322,PITCH
+PITCH (161),1594494,8945,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,RIGHTM,,Ball,1--1,0--1,,,,,0 Out,,5. Inning,UVA,Virginia Tech,,420;359,PITCH
+PITCH (162),1603473,8278,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,RIGHTM,,Ball,2--1,1--1,,,,,0 Out,,5. Inning,UVA,Virginia Tech,,440;350,PITCH
+PITCH (163),1611784,14744,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,LR,,Ball in Play,,2--1,DCF2,Double,,,0 Out,,5. Inning,UVA,Virginia Tech,304;53,391;313,PITCH
+PITCH (164),1626562,7382,R2,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,UPM,,Ball,1--0,0--0,,,,,0 Out,,5. Inning,UVA,Virginia Tech,,330;71,PITCH
+PITCH (165),1633977,7304,R2,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,DOWNM,,Ball,2--0,1--0,,,,,0 Out,,5. Inning,UVA,Virginia Tech,,122;444,PITCH
+PITCH (166),1641314,7915,R2,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,LEFTM,,Ball,3--0,2--0,,,,,0 Out,,5. Inning,UVA,Virginia Tech,,77;321,PITCH
+PITCH (167),1649263,6656,R2,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,LL,,Foul,3--1,3--0,,,,,0 Out,,5. Inning,UVA,Virginia Tech,,115;348,PITCH
+PITCH (168),1655952,11986,R2,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,DOWNM,Catcher Throw Safe,Ball,Walk,3--1,,,,,0 Out,,5. Inning,UVA,Virginia Tech,,386;444,PITCH
+PITCH (169),1667971,12095,R13,04-13-2019,12 Allyson Frei,R-Hand,14 Emma Strouth,R-Hand,LEFTM,Catcher Throw Safe,Ball,1--0,0--0,,,,,0 Out,,5. Inning,UVA,Virginia Tech,,96;393,PITCH
+PITCH (170),1680099,7965,R23,04-13-2019,12 Allyson Frei,R-Hand,14 Emma Strouth,R-Hand,DOWNM,,Ball,1--1,0--1,,,,,0 Out,,5. Inning,UVA,Virginia Tech,,86;435,PITCH
+PITCH (171),1688097,9109,R23,04-13-2019,12 Allyson Frei,R-Hand,14 Emma Strouth,R-Hand,DOWNM,,Ball,2--1,1--1,,,,,0 Out,,5. Inning,UVA,Virginia Tech,,420;426,PITCH
+PITCH (172),1697240,12958,R23,04-13-2019,12 Allyson Frei,R-Hand,14 Emma Strouth,R-Hand,LL,,Ball in Play,,2--1,1B2,Ground Out,,,0 Out,,5. Inning,UVA,Virginia Tech,289;257,115;348,PITCH
+PITCH (173),1710232,7370,R23,04-13-2019,12 Allyson Frei,R-Hand,8 Kelsey Bennett,R-Hand,UPM,,Ball,1--0,0--0,,,,,1 Out,,5. Inning,UVA,Virginia Tech,,298;70,PITCH
+PITCH (174),1717635,6557,R23,04-13-2019,12 Allyson Frei,R-Hand,8 Kelsey Bennett,R-Hand,DOWNM,,Ball,2--0,1--0,,,,,1 Out,,5. Inning,UVA,Virginia Tech,,408;442,PITCH
+PITCH (175),1724225,24718,R23,04-13-2019,12 Allyson Frei,R-Hand,8 Kelsey Bennett,R-Hand,UPR,,Ball in Play,,2--0,DLCF,Double,2 RBI,,1 Out,,5. Inning,UVA,Virginia Tech,145;54,352;139,PITCH
+PITCH (176),1748977,7654,R2,04-13-2019,12 Allyson Frei,R-Hand,16 Meredith Slaw,L-Hand,RIGHTM,,Ball,1--0,0--0,,,,,1 Out,,5. Inning,UVA,Virginia Tech,,438;341,PITCH
+PITCH (177),1756664,11222,R2,04-13-2019,12 Allyson Frei,R-Hand,16 Meredith Slaw,L-Hand,LR,,Ball in Play,,1--0,Home Run LF,Home Run,1 RBI,Well Hit Ball,1 Out,,5. Inning,UVA,Virginia Tech,,387;328,PITCH
+PITCH (178),1767920,6957,,04-13-2019,12 Allyson Frei,R-Hand,18 Mackenzie Lawter,R-Hand,LEFTM,,Ball,1--0,0--0,,,,,1 Out,,5. Inning,UVA,Virginia Tech,,72;348,PITCH
+PITCH (179),1774911,7366,,04-13-2019,12 Allyson Frei,R-Hand,18 Mackenzie Lawter,R-Hand,LEFTM,,Ball,2--0,1--0,,,,,1 Out,,5. Inning,UVA,Virginia Tech,,60;310,PITCH
+PITCH (180),1782310,12639,,04-13-2019,12 Allyson Frei,R-Hand,18 Mackenzie Lawter,R-Hand,ML,,Ball in Play,,2--0,DRF,Fly Out,,,1 Out,,5. Inning,UVA,Virginia Tech,391;68,133;257,PITCH
+PITCH (181),1794982,6666,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,11 Cana Davis,R-Hand,LEFTM,,Ball,1--0,0--0,,,,,2 Out,,5. Inning,UVA,Virginia Tech,,91;377,PITCH
+PITCH (182),1801682,8510,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,11 Cana Davis,R-Hand,ML,,Strike Called,1--1,1--0,,,,,2 Out,,5. Inning,UVA,Virginia Tech,,112;281,PITCH
+PITCH (183),1810225,6455,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,11 Cana Davis,R-Hand,LEFTM,,Ball,2--1,1--1,,,,,2 Out,,5. Inning,UVA,Virginia Tech,,75;357,PITCH
+PITCH (184),1816713,7565,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,11 Cana Davis,R-Hand,LEFTM,,Strike Swinging,2--2,2--1,,,,,2 Out,,5. Inning,UVA,Virginia Tech,,89;353,PITCH
+PITCH (185),1824311,7667,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,11 Cana Davis,R-Hand,LEFTM,,Ball,3--2,2--2,,,,,2 Out,,5. Inning,UVA,Virginia Tech,,72;346,PITCH
+PITCH (186),1832012,8146,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,11 Cana Davis,R-Hand,LEFTM,,Strike Swinging,Strikeout,3--2,,,,,2 Out,,5. Inning,UVA,Virginia Tech,,96;348,PITCH
+PITCH (187),1840191,7921,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,UPR,,Strike Called,0--1,0--0,,,,,0 Out,,6. Inning,Virginia Tech,UVA,,321;115,PITCH
+PITCH (188),1848145,9130,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,MR,,Foul,0--2,0--1,,,,,0 Out,,6. Inning,Virginia Tech,UVA,,377;261,PITCH
+PITCH (189),1857309,7896,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,LEFTM,,Ball,1--2,0--2,,,,,0 Out,,6. Inning,Virginia Tech,UVA,,49;261,PITCH
+PITCH (190),1865238,7993,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,DOWNM,,Ball,2--2,1--2,,,,,0 Out,,6. Inning,Virginia Tech,UVA,,126;448,PITCH
+PITCH (191),1873264,13874,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,24 Lacy Smith,R-Hand,LL,,Ball in Play,,2--2,2B3,Ground Out,,,0 Out,,6. Inning,Virginia Tech,UVA,304;234,117;370,PITCH
+PITCH (192),1887172,22211,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,4 Tori Gilbert,R-Hand,MR,,Ball in Play,,0--0,SS3,Ground Out,,,1 Out,,6. Inning,Virginia Tech,UVA,234;235,366;237,PITCH
+PITCH (193),1909416,12174,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,88 Olivia Gott,R-Hand,LR,,Foul,0--1,0--0,,,,,2 Out,,6. Inning,Virginia Tech,UVA,,326;319,PITCH
+PITCH (194),1921624,11722,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,88 Olivia Gott,R-Hand,LR,,Ball in Play,,0--1,PF,Ground Out,,,2 Out,,6. Inning,Virginia Tech,UVA,234;296,318;339,PITCH
+PITCH (195),1933378,10955,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,31 Kayleigh Addington,R-Hand,LL,,Ball in Play,,0--0,PF,Ground Out,,,0 Out,,6. Inning,UVA,Virginia Tech,277;270,114;319,PITCH
+PITCH (196),1944367,7827,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,2 Jayme Bailey,R-Hand,RIGHTM,,Ball,1--0,0--0,,,,,1 Out,,6. Inning,UVA,Virginia Tech,,422;253,PITCH
+PITCH (197),1952227,6958,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,2 Jayme Bailey,R-Hand,DOWNM,,Ball,2--0,1--0,,,,,1 Out,,6. Inning,UVA,Virginia Tech,,91;451,PITCH
+PITCH (198),1959218,7923,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,2 Jayme Bailey,R-Hand,LEFTM,,Ball,3--0,2--0,,,,,1 Out,,6. Inning,UVA,Virginia Tech,,82;281,PITCH
+PITCH (199),1967175,8719,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,2 Jayme Bailey,R-Hand,LEFTM,,Strike Called,3--1,3--0,,,,,1 Out,,6. Inning,UVA,Virginia Tech,,100;313,PITCH
+PITCH (200),1975927,10894,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,2 Jayme Bailey,R-Hand,LL,,Ball in Play,,3--1,SS3,Ground Out,,,1 Out,,6. Inning,UVA,Virginia Tech,223;230,122;341,PITCH
+PITCH (201),1986855,7651,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,RIGHTM,,Ball,2--2,1--2,,,,,2 Out,,6. Inning,UVA,Virginia Tech,,426;384,PITCH
+PITCH (202),1994539,9107,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,LEFTM,,Ball,2--0,1--0,,,,,2 Out,,6. Inning,UVA,Virginia Tech,,72;291,PITCH
+PITCH (203),2003680,6629,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,DOWNM,,Ball,3--0,2--0,,,,,2 Out,,6. Inning,UVA,Virginia Tech,,441;482,PITCH
+PITCH (204),2010343,9944,Bases Empty,04-13-2019,12 Allyson Frei,R-Hand,9 Al Velazquez,L-Hand,RIGHTM,,Ball,Walk,3--0,,,,,2 Out,,6. Inning,UVA,Virginia Tech,,440;271,PITCH
+PITCH (205),2020320,7267,R1,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,DOWNM,,Ball,1--0,0--0,,,,,2 Out,,6. Inning,UVA,Virginia Tech,,434;455,PITCH
+PITCH (206),2027620,7314,R1,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,LEFTM,,Ball,2--0,1--0,,,,,2 Out,,6. Inning,UVA,Virginia Tech,,84;195,PITCH
+PITCH (207),2034967,8201,R1,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,DOWNM,,Ball,3--0,2--0,,,,,2 Out,,6. Inning,UVA,Virginia Tech,,143;442,PITCH
+PITCH (208),2043202,8206,R1,04-13-2019,12 Allyson Frei,R-Hand,13 Caitlyn Nolan,R-Hand,DOWNM,,Ball,Walk,3--0,,,,,2 Out,,6. Inning,UVA,Virginia Tech,,420;428,PITCH
+PITCH (209),2051442,11646,R12,04-13-2019,12 Allyson Frei,R-Hand,14 Emma Strouth,R-Hand,LL,,Ball in Play,,0--0,1B2,Fly Out,,,2 Out,,6. Inning,UVA,Virginia Tech,300;270,128;355,PITCH
+PITCH (210),2063121,8518,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,19 Erika Osherow,R-Hand,DOWNM,,Strike Swinging,0--1,0--0,,,,,0 Out,,7. Inning,Virginia Tech,UVA,,333;404,PITCH
+PITCH (211),2071673,7995,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,19 Erika Osherow,R-Hand,LR,,Foul,0--2,0--1,,,,,0 Out,,7. Inning,Virginia Tech,UVA,,380;337,PITCH
+PITCH (212),2079701,9919,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,19 Erika Osherow,R-Hand,LEFTM,,Ball,1--2,0--2,,,,,0 Out,,7. Inning,Virginia Tech,UVA,,95;342,PITCH
+PITCH (213),2089654,9391,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,19 Erika Osherow,R-Hand,DOWNM,,Ball,2--2,1--2,,,,,0 Out,,7. Inning,Virginia Tech,UVA,,424;417,PITCH
+PITCH (214),2099078,13494,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,19 Erika Osherow,R-Hand,MR,,Ball in Play,,2--2,SS3,Ground Out,,,0 Out,,7. Inning,Virginia Tech,UVA,190;232,375;266,PITCH
+PITCH (215),2112606,9231,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,14 Abigail Barber,L-Hand,LM,,Strike Called,0--1,0--0,,,,,1 Out,,7. Inning,Virginia Tech,UVA,,295;368,PITCH
+PITCH (216),2121870,7581,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,14 Abigail Barber,L-Hand,DOWNM,,Ball,1--1,0--1,,,,,1 Out,,7. Inning,Virginia Tech,UVA,,431;457,PITCH
+PITCH (217),2129485,8056,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,14 Abigail Barber,L-Hand,MR,,Foul,1--2,1--1,,,,,1 Out,,7. Inning,Virginia Tech,UVA,,384;279,PITCH
+PITCH (218),2137574,9129,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,14 Abigail Barber,L-Hand,LEFTM,,Ball,Hit By Pitch,1--2,,,,,1 Out,,7. Inning,Virginia Tech,UVA,,58;182,PITCH
+PITCH (219),2146737,8814,R1,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,LR,,Strike Swinging,0--1,0--0,,,,,1 Out,,7. Inning,Virginia Tech,UVA,,340;390,PITCH
+PITCH (220),2155584,8152,R1,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,RIGHTM,,Ball,1--1,0--1,,,,,1 Out,,7. Inning,Virginia Tech,UVA,,415;315,PITCH
+PITCH (221),2163769,9548,R1,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,LEFTM,Catcher Throw Out,Strike Called,1--2,1--1,,,,,1 Out,,7. Inning,Virginia Tech,UVA,,100;326,PITCH
+PITCH (222),2173350,8010,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,RIGHTM,,Ball,3--2,2--2,,,,,2 Out,,7. Inning,Virginia Tech,UVA,,429;242,PITCH
+PITCH (223),2181393,11468,Bases Empty,04-13-2019,25 Carrie Eberle,R-Hand,15 Ashlee Davis,R-Hand,LL,,Ball in Play,,3--2,2B3,Ground Out,,,2 Out,,7. Inning,Virginia Tech,UVA,302;240,142;324,PITCH

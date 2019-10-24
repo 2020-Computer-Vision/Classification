@@ -1,0 +1,202 @@
+﻿Name,Position,Duration,1. Baserunning Situation,1. Date,1. Pitchers Name,1. Pitchers Side,2. Hitters Name,2. Hitters Side,3. Pitch Type,4. Pitch Location,5. Catcher Throw Down,5. Game Pitch Result,6. Pitch Count,6. Previous Pitch Count,8. Hit Location,8. Hit Results,8. RBI,9. Outs,Hitting Position,Mark for Review,Period,Team 1. Pitchers Name,Team 2. Hitters Name,XY Hit Location,XY Pitch Location
+PITCH (1),0,11361,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Screw Ball,RIGHTM,,Strike Called,0--1,0--0,,,,0 Out,,,1. Inning,NC State,Virginia Tech,,401;271
+PITCH (2),11378,9616,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Drop Ball,DOWNM,,Ball,1--1,0--1,,,,0 Out,,,1. Inning,NC State,Virginia Tech,,402;461
+PITCH (3),21011,10092,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Screw Ball,MR,,Strike Called,1--2,1--1,,,,0 Out,,,1. Inning,NC State,Virginia Tech,,394;247
+PITCH (4),31120,14723,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Drop Ball,MR,,Ball in Play,,1--2,SS3,Ground Out,,0 Out,,,1. Inning,NC State,Virginia Tech,188;231,367;258
+PITCH (5),45860,10813,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Screw Ball,LR,,Strike Called,0--1,0--0,,,,1 Out,,,1. Inning,NC State,Virginia Tech,,391;327
+PITCH (6),56689,10088,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Rise Ball,MR,,Strike Called,0--2,0--1,,,,1 Out,,,1. Inning,NC State,Virginia Tech,,392;208
+PITCH (7),66794,10293,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Screw Ball,RIGHTM,,Ball,1--2,0--2,,,,1 Out,,,1. Inning,NC State,Virginia Tech,,455;150
+PITCH (8),77104,9840,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Drop Ball,DOWNM,,Ball,2--2,1--2,,,,1 Out,,,1. Inning,NC State,Virginia Tech,,428;416
+PITCH (9),86960,15103,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Curve Ball,MR,,Ball in Play,,2--2,SLF,Fly Out,,1 Out,,,1. Inning,NC State,Virginia Tech,140;215,355;287
+PITCH (10),102079,9467,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Rise Ball,MM,,Strike Swinging,0--1,0--0,,,,2 Out,,,1. Inning,NC State,Virginia Tech,,284;258
+PITCH (11),111563,10024,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Screw Ball,RIGHTM,,Hit by Pitch,,0--1,,,,2 Out,,,1. Inning,NC State,Virginia Tech,,451;221
+PITCH (12),121603,8165,R1,3/17/2019,25 Devin Wallace,R-Hand,14 Emma Strouth,R-Hand,Fastball,RIGHTM,,Ball,1--0,0--0,,,,2 Out,,,1. Inning,NC State,Virginia Tech,,437;245
+PITCH (13),129785,9142,R1,3/17/2019,25 Devin Wallace,R-Hand,14 Emma Strouth,R-Hand,Curve Ball,UPL,,Strike Swinging,1--1,1--0,,,,2 Out,,,1. Inning,NC State,Virginia Tech,,136;119
+PITCH (14),138944,9275,R1,3/17/2019,25 Devin Wallace,R-Hand,14 Emma Strouth,R-Hand,Drop Ball,RIGHTM,,Ball,2--1,1--1,,,,2 Out,,,1. Inning,NC State,Virginia Tech,,442;403
+PITCH (15),148236,15535,R1,3/17/2019,25 Devin Wallace,R-Hand,14 Emma Strouth,R-Hand,Rise Ball,UPM,,Strike Swinging,2--2,2--1,,,,2 Out,,Mark for Review,1. Inning,NC State,Virginia Tech,,219;137
+PITCH (16),163788,15995,R1,3/17/2019,25 Devin Wallace,R-Hand,14 Emma Strouth,R-Hand,Rise Ball,UPM,,Foul,2--2,2--2,,,,2 Out,,Mark for Review,1. Inning,NC State,Virginia Tech,,200;130
+PITCH (17),179800,5884,R1,3/17/2019,25 Devin Wallace,R-Hand,14 Emma Strouth,R-Hand,Rise Ball,UPL,,Foul,2--2,2--2,,,,2 Out,,,1. Inning,NC State,Virginia Tech,,188;184
+PITCH (18),185700,9491,R1,3/17/2019,25 Devin Wallace,R-Hand,14 Emma Strouth,R-Hand,Screw Ball,UPM,,Foul,2--2,2--2,,,,2 Out,,,1. Inning,NC State,Virginia Tech,,219;175
+PITCH (19),195207,13601,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,14 Emma Strouth,R-Hand,Drop Ball,MR,,Strike Called,Strikeout,2--2,,,,0 Out,,,1. Inning,NC State,Virginia Tech,,379;211
+PITCH (20),208825,11330,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Drop Ball,DOWNM,,Ball,1--0,0--0,,,,0 Out,,,1. Inning,Virginia Tech,NC State,,253;427
+PITCH (21),220171,12937,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Rise Ball,DOWNM,,Ball,2--0,1--0,,,,0 Out,Bunt Attempt,,1. Inning,Virginia Tech,NC State,,151;431
+PITCH (22),233125,10927,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Drop Ball,UPM,,Ball,3--0,2--0,,,,0 Out,,,1. Inning,Virginia Tech,NC State,,257;94
+PITCH (23),244068,11824,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Drop Ball,LM,,Strike Called,3--1,3--0,,,,0 Out,,,1. Inning,Virginia Tech,NC State,,239;321
+PITCH (24),255908,12704,R1,3/17/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Screw Ball,DOWNM,,Ball,Walk,3--1,,,,0 Out,,,1. Inning,Virginia Tech,NC State,,402;423
+PITCH (25),268629,23032,R12,3/17/2019,25 Carrie Eberle,R-Hand,28 Brigette Nordberg,R-Hand,Drop Ball,LR,,Ball in Play,,0--0,SS3,Single,,0 Out,,,1. Inning,Virginia Tech,NC State,191;234,388;322
+PITCH (26),291678,11617,R12,3/17/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Curve Ball,DOWNM,,Ball,1--0,0--0,,,,0 Out,,,1. Inning,Virginia Tech,NC State,,243;432
+PITCH (27),303312,12238,R12,3/17/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Curve Ball,ML,,Strike Called,1--1,1--0,,,,0 Out,,,1. Inning,Virginia Tech,NC State,,106;248
+PITCH (28),315566,10189,R12,3/17/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Curve Ball,LEFTM,,Ball,2--1,1--1,,,,0 Out,,,1. Inning,Virginia Tech,NC State,,65;187
+PITCH (29),325772,11686,R12,3/17/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Screw Ball,LEFTM,,Strike Called,2--2,2--1,,,,0 Out,,,1. Inning,Virginia Tech,NC State,,96;254
+PITCH (30),337475,15698,R3,3/17/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Screw Ball,LM,,Ball in Play,,2--2,SS3,Ground Out,,2 Out,,,1. Inning,Virginia Tech,NC State,213;217,239;313
+PITCH (31),353190,15412,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,34 Skylar Johnston,R-Hand,Drop Ball,MR,,Ball in Play,,0--0,SS3,Ground Out,,0 Out,,,1. Inning,Virginia Tech,NC State,197;226,315;299
+PITCH (32),368618,10620,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Curve Ball,RIGHTM,,Ball,1--0,0--0,,,,0 Out,,,2. Inning,NC State,Virginia Tech,,426;271
+PITCH (33),379255,8952,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Rise Ball,ML,,Strike Swinging,1--1,1--0,,,,0 Out,,,2. Inning,NC State,Virginia Tech,,175;214
+PITCH (34),388223,10786,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Change Up,UPM,,Foul,1--2,1--1,,,,0 Out,,,2. Inning,NC State,Virginia Tech,,233;136
+PITCH (35),399026,9046,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Fastball,DOWNM,,Ball,2--2,1--2,,,,0 Out,,,2. Inning,NC State,Virginia Tech,,242;477
+PITCH (36),408088,9535,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Rise Ball,RIGHTM,,Ball,3--2,2--2,,,,0 Out,,,2. Inning,NC State,Virginia Tech,,440;232
+PITCH (37),417639,9040,R1,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Change Up,RIGHTM,,Ball,Walk,3--2,,,,0 Out,,,2. Inning,NC State,Virginia Tech,,483;244
+PITCH (38),426696,9703,R1,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Curve Ball,UPM,,Ball,1--0,0--0,,,,0 Out,,,2. Inning,NC State,Virginia Tech,,108;17
+PITCH (39),436416,10571,R1,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Fastball,LEFTM,,Ball,2--0,1--0,,,,0 Out,,,2. Inning,NC State,Virginia Tech,,69;238
+PITCH (40),447003,13792,R1,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Rise Ball,MR,,Ball in Play,,2--0,1B3,Fly Out,,1 Out,,,2. Inning,NC State,Virginia Tech,319;235,359;259
+PITCH (41),460812,9173,R1,3/17/2019,25 Devin Wallace,R-Hand,6 Lauren Duff,R-Hand,Rise Ball,UPM,,Strike Swinging,0--1,0--0,,,,1 Out,,,2. Inning,NC State,Virginia Tech,,265;99
+PITCH (42),470002,16216,R12,3/17/2019,25 Devin Wallace,R-Hand,6 Lauren Duff,R-Hand,Drop Ball,MR,,Ball in Play,,0--1,3B3,Fielders Choice,,1 Out,,Mark for Review,2. Inning,NC State,Virginia Tech,196;259,393;285
+PITCH (43),486235,9125,R23,3/17/2019,25 Devin Wallace,R-Hand,18 Mackenzie Lawter,R-Hand,Drop Ball,DOWNM,,WP-PB,1--0,0--0,,,,1 Out,,,2. Inning,NC State,Virginia Tech,,407;435
+PITCH (44),495377,9025,R23,3/17/2019,25 Devin Wallace,R-Hand,18 Mackenzie Lawter,R-Hand,Fastball,DOWNM,,Ball,2--0,1--0,,,,1 Out,,,2. Inning,NC State,Virginia Tech,,374;433
+PITCH (45),504418,9247,R23,3/17/2019,25 Devin Wallace,R-Hand,18 Mackenzie Lawter,R-Hand,Fastball,RIGHTM,,Ball,3--0,2--0,,,,1 Out,,,2. Inning,NC State,Virginia Tech,,456;375
+PITCH (46),513682,11547,R23,3/17/2019,25 Devin Wallace,R-Hand,18 Mackenzie Lawter,R-Hand,Fastball,MR,,Strike Called,3--1,3--0,,,,1 Out,,,2. Inning,NC State,Virginia Tech,,392;299
+PITCH (47),525246,13268,R23,3/17/2019,25 Devin Wallace,R-Hand,18 Mackenzie Lawter,R-Hand,Curve Ball,MR,,Ball in Play,,3--1,SS3,Fly Out,,2 Out,,,2. Inning,NC State,Virginia Tech,200;227,367;242
+PITCH (48),538531,8782,R23,3/17/2019,25 Devin Wallace,R-Hand,28 Grace Chavez,R-Hand,Fastball,UPM,,Ball,1--0,0--0,,,,2 Out,,,2. Inning,NC State,Virginia Tech,,72;99
+PITCH (49),547330,10377,R23,3/17/2019,25 Devin Wallace,R-Hand,28 Grace Chavez,R-Hand,Drop Ball,UPM,,Foul,1--1,1--0,,,,2 Out,,,2. Inning,NC State,Virginia Tech,,232;191
+PITCH (50),557724,8681,R23,3/17/2019,25 Devin Wallace,R-Hand,28 Grace Chavez,R-Hand,Fastball,DOWNM,,Ball,2--1,1--1,,,,2 Out,,,2. Inning,NC State,Virginia Tech,,374;410
+PITCH (51),566422,9640,R23,3/17/2019,25 Devin Wallace,R-Hand,28 Grace Chavez,R-Hand,Drop Ball,RIGHTM,,Ball,3--1,2--1,,,,2 Out,,,2. Inning,NC State,Virginia Tech,,418;172
+PITCH (52),576079,14848,R123,3/17/2019,25 Devin Wallace,R-Hand,28 Grace Chavez,R-Hand,Curve Ball,DOWNM,,Ball,Walk,3--1,,,,2 Out,,,2. Inning,NC State,Virginia Tech,,332;409
+PITCH (53),590943,8903,R123,3/17/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Fastball,LEFTM,,Ball,1--0,0--0,,,,2 Out,,,2. Inning,NC State,Virginia Tech,,76;178
+PITCH (54),599863,10674,R123,3/17/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Fastball,DOWNM,,Ball,2--0,1--0,,,,2 Out,,,2. Inning,NC State,Virginia Tech,,253;414
+PITCH (55),610553,13223,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Screw Ball,MR,,Ball in Play,,2--0,SLCF,Fly Out,,0 Out,,,2. Inning,NC State,Virginia Tech,129;122,322;229
+PITCH (56),623793,14293,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Drop Ball,MR,,Ball in Play,,0--0,SS3,Ground Out,,1 Out,,,2. Inning,Virginia Tech,NC State,199;252,371;279
+PITCH (57),638102,10154,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,12 Natalie Jones,R-Hand,Curve Ball,LR,,Foul,0--1,0--0,,,,1 Out,,,2. Inning,Virginia Tech,NC State,,316;311
+PITCH (58),648274,9840,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,12 Natalie Jones,R-Hand,Drop Ball,ML,,Strike Called,0--2,0--1,,,,1 Out,,,2. Inning,Virginia Tech,NC State,,116;230
+PITCH (59),658131,9285,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,12 Natalie Jones,R-Hand,Drop Ball,DOWNM,,Ball,1--2,0--2,,,,1 Out,,,2. Inning,Virginia Tech,NC State,,75;446
+PITCH (60),667432,10127,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,12 Natalie Jones,R-Hand,Curve Ball,RIGHTM,,Strike Swinging,Strikeout,1--2,,,,2 Out,,,2. Inning,Virginia Tech,NC State,,414;402
+PITCH (61),677576,8292,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,42 Angie Rizzi,R-Hand,Drop Ball,LEFTM,,Ball,1--0,0--0,,,,2 Out,,,2. Inning,Virginia Tech,NC State,,74;106
+PITCH (62),685885,8865,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,42 Angie Rizzi,R-Hand,Curve Ball,RIGHTM,,Strike Swinging,1--1,1--0,,,,2 Out,,,2. Inning,Virginia Tech,NC State,,404;397
+PITCH (63),694767,10729,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,42 Angie Rizzi,R-Hand,Screw Ball,LL,,Foul,1--2,1--1,,,,2 Out,,,2. Inning,Virginia Tech,NC State,,113;322
+PITCH (64),705513,14230,R1,3/17/2019,25 Carrie Eberle,R-Hand,42 Angie Rizzi,R-Hand,Drop Ball,RIGHTM,,Ball in Play,,1--2,SCF1,Single,,2 Out,,,2. Inning,Virginia Tech,NC State,196;142,402;237
+PITCH (65),719759,8470,R1,3/17/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Drop Ball,DOWNM,,Ball,1--0,0--0,,,,2 Out,,,2. Inning,Virginia Tech,NC State,,97;416
+PITCH (66),728246,9944,R1,3/17/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Drop Ball,DOWNM,,Ball,2--0,1--0,,,,2 Out,,,2. Inning,Virginia Tech,NC State,,394;434
+PITCH (67),738207,9518,R1,3/17/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Rise Ball,DOWNM,,Ball,3--0,2--0,,,,2 Out,,,2. Inning,Virginia Tech,NC State,,395;411
+PITCH (68),747742,10431,R1,3/17/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Fastball,UPM,,Strike Called,3--1,3--0,,,,2 Out,,,2. Inning,Virginia Tech,NC State,,202;189
+PITCH (69),758189,14034,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Screw Ball,MR,,Ball in Play,,3--1,SS3,Ground Out,,0 Out,,,2. Inning,Virginia Tech,NC State,223;215,337;284
+PITCH (70),772240,9156,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Drop Ball,MR,,Strike Called,0--1,0--0,,,,0 Out,,,3. Inning,NC State,Virginia Tech,,348;265
+PITCH (71),781412,9223,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Screw Ball,DOWNM,,Strike Swinging,0--2,0--1,,,,0 Out,,,3. Inning,NC State,Virginia Tech,,242;410
+PITCH (72),790652,8479,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Drop Ball,DOWNM,,Ball,1--2,0--2,,,,0 Out,,,3. Inning,NC State,Virginia Tech,,462;428
+PITCH (73),799147,10579,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Fastball,DOWNM,,Strike Swinging,Strikeout,1--2,,,,1 Out,,,3. Inning,NC State,Virginia Tech,,249;445
+PITCH (74),809743,8000,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Rise Ball,LEFTM,,Ball,1--0,0--0,,,,1 Out,,,3. Inning,NC State,Virginia Tech,,55;160
+PITCH (75),817760,11692,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Drop Ball,UPM,,Foul,1--1,1--0,,,,1 Out,,,3. Inning,NC State,Virginia Tech,,271;151
+PITCH (76),829469,10365,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Drop Ball,DOWNM,,Strike Swinging,1--2,1--1,,,,1 Out,,,3. Inning,NC State,Virginia Tech,,118;405
+PITCH (77),839850,12472,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Curve Ball,DOWNM,,Strike Swinging,Strikeout,1--2,,,,2 Out,,,3. Inning,NC State,Virginia Tech,,198;435
+PITCH (78),852339,7833,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,14 Emma Strouth,R-Hand,Fastball,LEFTM,,Ball,1--0,0--0,,,,2 Out,,,3. Inning,NC State,Virginia Tech,,62;185
+PITCH (79),860189,11853,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,14 Emma Strouth,R-Hand,Curve Ball,MR,,Ball in Play,,1--0,DCF1,Fly Out,,0 Out,,,3. Inning,NC State,Virginia Tech,196;85,377;236
+PITCH (80),872058,10438,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,5 April Visser,R-Hand,Screw Ball,LEFTM,,Ball,1--0,0--0,,,,0 Out,,,3. Inning,Virginia Tech,NC State,,65;264
+PITCH (81),882512,14696,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,5 April Visser,R-Hand,Drop Ball,MR,,Ball in Play,,1--0,2B3,Line Out,,1 Out,,,3. Inning,Virginia Tech,NC State,288;214,361;269
+PITCH (82),897225,11350,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Drop Ball,,,Foul,0--1,0--0,,,,1 Out,,,3. Inning,Virginia Tech,NC State,,399;265
+PITCH (83),908592,9519,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Screw Ball,DOWNM,,Ball,1--1,0--1,,,,1 Out,,,3. Inning,Virginia Tech,NC State,,257;464
+PITCH (84),918128,13882,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Rise Ball,MR,,Ball in Play,,1--1,PF,Ground Out,,2 Out,,,3. Inning,Virginia Tech,NC State,245;277,387;271
+PITCH (85),932026,10347,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,28 Brigette Nordberg,R-Hand,Rise Ball,MR,,Foul,0--1,0--0,,,,2 Out,,,3. Inning,Virginia Tech,NC State,,394;274
+PITCH (86),942390,10984,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,28 Brigette Nordberg,R-Hand,Rise Ball,UPM,,Ball,1--1,0--1,,,,2 Out,,,3. Inning,Virginia Tech,NC State,,226;6
+PITCH (87),953391,14195,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,28 Brigette Nordberg,R-Hand,Rise Ball,MR,,Ball in Play,,1--1,3B3,Ground Out,,0 Out,,,3. Inning,Virginia Tech,NC State,190;268,398;262
+PITCH (88),967602,9187,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Fastball,UPM,,Ball,1--0,0--0,,,,0 Out,,,4. Inning,NC State,Virginia Tech,,109;31
+PITCH (89),976805,8708,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Curve Ball,UPR,,Foul,1--1,1--0,,,,0 Out,,,4. Inning,NC State,Virginia Tech,,392;191
+PITCH (90),985530,9221,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Rise Ball,ML,,Strike Called,1--2,1--1,,,,0 Out,,,4. Inning,NC State,Virginia Tech,,109;268
+PITCH (91),994768,7416,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Drop Ball,UPL,,Foul,1--2,1--2,,,,0 Out,,,4. Inning,NC State,Virginia Tech,,106;188
+PITCH (92),1002201,8440,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Rise Ball,DOWNM,,Ball,2--2,1--2,,,,0 Out,,,4. Inning,NC State,Virginia Tech,,358;468
+PITCH (93),1010658,9047,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Curve Ball,UPM,,Ball,3--2,2--2,,,,0 Out,,,4. Inning,NC State,Virginia Tech,,291;55
+PITCH (94),1019722,17119,R3,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Screw Ball,MM,,Ball in Play,,3--2,DRCF,Triple,,0 Out,,,4. Inning,NC State,Virginia Tech,332;62,278;212
+PITCH (95),1036857,8560,R3,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Curve Ball,LM,,Strike Called,0--1,0--0,,,,0 Out,,,4. Inning,NC State,Virginia Tech,,222;333
+PITCH (96),1045434,9036,R3,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Drop Ball,LL,,Strike Swinging,0--2,0--1,,,,0 Out,,,4. Inning,NC State,Virginia Tech,,188;388
+PITCH (97),1054486,9838,R3,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Rise Ball,ML,,Foul,0--2,0--2,,,,0 Out,,,4. Inning,NC State,Virginia Tech,,155;301
+PITCH (98),1064341,8345,R3,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Rise Ball,UPM,,Ball,1--2,0--2,,,,0 Out,,,4. Inning,NC State,Virginia Tech,,163;35
+PITCH (99),1072703,12842,R3,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Rise Ball,MM,,Foul,1--2,1--2,,,,0 Out,,,4. Inning,NC State,Virginia Tech,,204;230
+PITCH (100),1085562,8514,R3,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Drop Ball,UPM,,Ball,2--2,1--2,,,1 RBI,0 Out,,,4. Inning,NC State,Virginia Tech,,257;39
+PITCH (101),1094092,20540,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Screw Ball,LL,,Ball in Play,,2--2,MLF,Sacrifice Fly,,1 Out,,,4. Inning,NC State,Virginia Tech,377;155,145;314
+PITCH (102),1114649,7584,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,6 Lauren Duff,R-Hand,Change Up,MR,,Foul,0--1,0--0,,,,1 Out,,,4. Inning,NC State,Virginia Tech,,387;286
+PITCH (103),1122250,9137,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,6 Lauren Duff,R-Hand,Drop Ball,DOWNM,,Ball,1--1,0--1,,,,1 Out,,,4. Inning,NC State,Virginia Tech,,161;431
+PITCH (104),1131403,13643,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,6 Lauren Duff,R-Hand,Curve Ball,MR,,Ball in Play,,1--1,DLCF,Fly Out,,2 Out,,,4. Inning,NC State,Virginia Tech,181;76,302;258
+PITCH (105),1145063,8723,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,18 Mackenzie Lawter,R-Hand,Screw Ball,MM,,Strike Called,0--1,0--0,,,,2 Out,,,4. Inning,NC State,Virginia Tech,,238;258
+PITCH (106),1153802,10058,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,18 Mackenzie Lawter,R-Hand,Curve Ball,UPM,,Foul,0--2,0--1,,,,2 Out,,,4. Inning,NC State,Virginia Tech,,213;187
+PITCH (107),1163877,14410,R1,3/17/2019,25 Devin Wallace,R-Hand,18 Mackenzie Lawter,R-Hand,Rise Ball,MM,,Ball in Play,,0--2,SLCF,Single,,2 Out,,,4. Inning,NC State,Virginia Tech,189;193,211;250
+PITCH (108),1178304,9992,R1,3/17/2019,25 Devin Wallace,R-Hand,29 Maddi Banks,L-Hand,Rise Ball,UPM,,Strike Swinging,0--1,0--0,,,,2 Out,,,4. Inning,NC State,Virginia Tech,,254;87
+PITCH (109),1188312,8786,R1,3/17/2019,25 Devin Wallace,R-Hand,29 Maddi Banks,L-Hand,Rise Ball,UPM,,Strike Called,0--2,0--1,,,,2 Out,,,4. Inning,NC State,Virginia Tech,,201;157
+PITCH (110),1197115,9010,R1,3/17/2019,25 Devin Wallace,R-Hand,29 Maddi Banks,L-Hand,Change Up,MM,,Foul,0--2,0--2,,,,2 Out,,,4. Inning,NC State,Virginia Tech,,279;223
+PITCH (111),1206141,9633,R1,3/17/2019,25 Devin Wallace,R-Hand,29 Maddi Banks,L-Hand,Drop Ball,DOWNM,,Ball,1--2,0--2,,,,2 Out,,,4. Inning,NC State,Virginia Tech,,388;432
+PITCH (112),1215791,11860,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,29 Maddi Banks,L-Hand,Curve Ball,MR,,Strike Called,Strikeout,1--2,,,,0 Out,,,4. Inning,NC State,Virginia Tech,,393;243
+PITCH (113),1227667,13181,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Drop Ball,ML,,Ball in Play,,0--0,2B3,Ground Out,,1 Out,,,4. Inning,Virginia Tech,NC State,309;231,158;300
+PITCH (114),1240865,8443,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,34 Skylar Johnston,R-Hand,Drop Ball,RIGHTM,,Ball,1--0,0--0,,,,1 Out,,,4. Inning,Virginia Tech,NC State,,415;365
+PITCH (115),1249325,8798,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,34 Skylar Johnston,R-Hand,Drop Ball,DOWNM,,Ball,2--0,1--0,,,,1 Out,,,4. Inning,Virginia Tech,NC State,,244;422
+PITCH (116),1258140,9339,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,34 Skylar Johnston,R-Hand,Curve Ball,LL,,Strike Called,2--1,2--0,,,,1 Out,,,4. Inning,Virginia Tech,NC State,,127;376
+PITCH (117),1267495,11970,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,34 Skylar Johnston,R-Hand,Curve Ball,LM,,Ball in Play,,2--1,PF,Ground Out,,2 Out,,,4. Inning,Virginia Tech,NC State,257;282,239;356
+PITCH (118),1279483,8931,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Drop Ball,LEFTM,,Ball,1--0,0--0,,,,2 Out,,,4. Inning,Virginia Tech,NC State,,51;194
+PITCH (119),1288431,13618,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Drop Ball,ML,,Ball in Play,,1--0,2B3,Line Out,,0 Out,,,4. Inning,Virginia Tech,NC State,297;223,133;294
+PITCH (120),1302065,10017,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Rise Ball,LM,,Strike Called,0--1,0--0,,,,0 Out,,,5. Inning,NC State,Virginia Tech,,214;383
+PITCH (121),1312098,12882,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Screw Ball,MR,,Foul,0--2,0--1,,,,0 Out,Bunt Attempt,,5. Inning,NC State,Virginia Tech,,316;291
+PITCH (122),1324997,8949,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Drop Ball,RIGHTM,,Ball,1--2,0--2,,,,0 Out,,,5. Inning,NC State,Virginia Tech,,418;249
+PITCH (123),1333963,12599,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Drop Ball,MR,,Ball in Play,,1--2,FBC,Fly Out,,1 Out,,,5. Inning,NC State,Virginia Tech,233;375,331;264
+PITCH (124),1346579,13103,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Curve Ball,ML,,Ball in Play,,0--0,SS3,Ground Out,,2 Out,,,5. Inning,NC State,Virginia Tech,208;228,198;271
+PITCH (125),1359698,8322,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Screw Ball,UPM,,Ball,1--0,0--0,,,,2 Out,,,5. Inning,NC State,Virginia Tech,,89;55
+PITCH (126),1368036,8620,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Fastball,RIGHTM,,Ball,2--0,1--0,,,,2 Out,,,5. Inning,NC State,Virginia Tech,,432;393
+PITCH (127),1376673,8840,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Curve Ball,LR,,Foul,2--1,2--0,,,,2 Out,,,5. Inning,NC State,Virginia Tech,,297;338
+PITCH (128),1385529,8642,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Rise Ball,ML,,Foul,2--2,2--1,,,,2 Out,,,5. Inning,NC State,Virginia Tech,,120;255
+PITCH (129),1394188,8488,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Drop Ball,UPM,,Ball,3--2,2--2,,,,2 Out,,,5. Inning,NC State,Virginia Tech,,206;34
+PITCH (130),1402693,11105,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Screw Ball,ML,,Foul,3--2,3--2,,,,2 Out,,,5. Inning,NC State,Virginia Tech,,191;221
+PITCH (131),1413815,9374,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Drop Ball,MR,,Strike Swinging,Strikeout,3--2,,,,0 Out,,,5. Inning,NC State,Virginia Tech,,360;205
+PITCH (132),1423206,10104,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,11 Chandley Garner,R-Hand,Curve Ball,DOWNM,,Ball,1--0,0--0,,,,0 Out,,,5. Inning,Virginia Tech,NC State,,205;409
+PITCH (133),1433326,11679,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,11 Chandley Garner,R-Hand,Screw Ball,ML,,Strike Called,1--1,1--0,,,,0 Out,,,5. Inning,Virginia Tech,NC State,,122;208
+PITCH (134),1445022,11641,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,11 Chandley Garner,R-Hand,Drop Ball,MR,,Foul,1--2,1--1,,,,0 Out,,,5. Inning,Virginia Tech,NC State,,377;262
+PITCH (135),1456680,12262,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,11 Chandley Garner,R-Hand,Drop Ball,DOWNM,,Strike Swinging,Strikeout,1--2,,,,1 Out,,,5. Inning,Virginia Tech,NC State,,219;419
+PITCH (136),1468959,11593,R1,3/17/2019,25 Carrie Eberle,R-Hand,42 Angie Rizzi,R-Hand,Drop Ball,DOWNM,,Ball,Hit by Pitch,0--0,,,,1 Out,,,5. Inning,Virginia Tech,NC State,,461;411
+PITCH (137),1480569,9262,R1,3/17/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Screw Ball,DOWNM,,Ball,1--0,0--0,,,,1 Out,,,5. Inning,Virginia Tech,NC State,,151;414
+PITCH (138),1489848,15216,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Curve Ball,LM,Catcher Throw Out,Strike Swinging,1--1,1--0,,,,2 Out,,Mark for Review,5. Inning,Virginia Tech,NC State,,249;380
+PITCH (139),1505081,9882,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Curve Ball,LEFTM,,Ball,2--1,1--1,,,,2 Out,,,5. Inning,Virginia Tech,NC State,,97;252
+PITCH (140),1514979,12893,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,44 Kelli Wagner,R-Hand,Drop Ball,ML,,Ball in Play,,2--1,PF,Ground Out,,0 Out,,,5. Inning,Virginia Tech,NC State,253;273,109;259
+PITCH (141),1527889,7536,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,14 Emma Strouth,R-Hand,Drop Ball,DOWNM,,Ball,1--0,0--0,,,,0 Out,,,6. Inning,NC State,Virginia Tech,,332;466
+PITCH (142),1535442,10014,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,14 Emma Strouth,R-Hand,Drop Ball,MR,,Strike Called,1--1,1--0,,,,0 Out,,,6. Inning,NC State,Virginia Tech,,383;239
+PITCH (143),1545472,13617,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,14 Emma Strouth,R-Hand,Drop Ball,LM,,Ball in Play,,1--1,DCF2,Fly Out,,1 Out,,,6. Inning,NC State,Virginia Tech,256;47,243;335
+PITCH (144),1559106,9266,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Screw Ball,MM,,Strike Called,0--1,0--0,,,,1 Out,,,6. Inning,NC State,Virginia Tech,,245;254
+PITCH (145),1568389,8937,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Drop Ball,RIGHTM,,Ball,1--1,0--1,,,,1 Out,,,6. Inning,NC State,Virginia Tech,,426;213
+PITCH (146),1577342,8818,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Rise Ball,LM,,Foul,1--2,1--1,,,,1 Out,,,6. Inning,NC State,Virginia Tech,,201;327
+PITCH (147),1586177,8813,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,8 Kelsey Bennett,R-Hand,Curve Ball,MM,,Strike Swinging,Strikeout,1--2,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,291;205
+PITCH (148),1595007,8952,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Drop Ball,LM,,Foul,0--1,0--0,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,202;326
+PITCH (149),1603975,9290,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Drop Ball,LEFTM,,Ball,1--1,0--1,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,79;326
+PITCH (150),1613282,9072,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Screw Ball,DOWNM,,Ball,2--1,1--1,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,273;435
+PITCH (151),1622370,8470,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Fastball,DOWNM,,Ball,3--1,2--1,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,449;433
+PITCH (152),1630857,8659,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Fastball,MR,,Strike Called,3--2,3--1,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,389;252
+PITCH (153),1639533,11346,R1,3/17/2019,25 Devin Wallace,R-Hand,2 Jayme Bailey,R-Hand,Drop Ball,,,Ball,Walk,3--2,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,304;100
+PITCH (154),1650895,9100,R1,3/17/2019,25 Devin Wallace,R-Hand,6 Lauren Duff,R-Hand,Drop Ball,LL,,Strike Swinging,0--1,0--0,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,178;380
+PITCH (155),1660012,11113,R1,3/17/2019,25 Devin Wallace,R-Hand,6 Lauren Duff,R-Hand,Screw Ball,DOWNM,,Ball,1--1,0--1,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,251;477
+PITCH (156),1671141,9924,R1,3/17/2019,25 Devin Wallace,R-Hand,6 Lauren Duff,R-Hand,Change Up,RIGHTM,,Strike Called,1--2,1--1,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,404;249
+PITCH (157),1681082,9682,R1,3/17/2019,25 Devin Wallace,R-Hand,6 Lauren Duff,R-Hand,Screw Ball,DOWNM,,Ball,2--2,1--2,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,340;491
+PITCH (158),1690780,10466,R1,3/17/2019,25 Devin Wallace,R-Hand,6 Lauren Duff,R-Hand,Drop Ball,MR,,Foul,2--2,2--2,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,373;239
+PITCH (159),1701263,9517,R1,3/17/2019,25 Devin Wallace,R-Hand,6 Lauren Duff,R-Hand,Screw Ball,DOWNM,,Ball,3--2,2--2,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,336;473
+PITCH (160),1710796,8616,R1,3/17/2019,25 Devin Wallace,R-Hand,6 Lauren Duff,R-Hand,Curve Ball,LR,,Foul,3--2,3--2,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,394;331
+PITCH (161),1719429,13096,R1,3/17/2019,25 Devin Wallace,R-Hand,6 Lauren Duff,R-Hand,Screw Ball,ML,,Foul,3--2,3--2,,,,2 Out,,,6. Inning,NC State,Virginia Tech,,118;269
+PITCH (162),1732541,10664,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,6 Lauren Duff,R-Hand,Rise Ball,UPR,,Strike Swinging,Strikeout,3--2,,,,0 Out,,,6. Inning,NC State,Virginia Tech,,321;145
+PITCH (163),1743221,10113,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,5 April Visser,R-Hand,Screw Ball,UPL,,Ball,1--0,0--0,,,,0 Out,,,6. Inning,Virginia Tech,NC State,,109;101
+PITCH (164),1753351,13695,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,5 April Visser,R-Hand,Drop Ball,MR,,Ball in Play,,1--0,DLCF,Fly Out,,1 Out,,,6. Inning,Virginia Tech,NC State,149;109,353;248
+PITCH (165),1767063,10419,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Curve Ball,DOWNM,,Ball,1--0,0--0,,,,1 Out,Bunt Attempt,,6. Inning,Virginia Tech,NC State,,234;411
+PITCH (166),1777498,9294,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Screw Ball,LEFTM,,Ball,2--0,1--0,,,,1 Out,,,6. Inning,Virginia Tech,NC State,,32;315
+PITCH (167),1786809,10651,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Rise Ball,MR,,Foul,2--1,2--0,,,,1 Out,,,6. Inning,Virginia Tech,NC State,,380;269
+PITCH (168),1797477,10493,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Drop Ball,RIGHTM,,Ball,3--1,2--1,,,,1 Out,,,6. Inning,Virginia Tech,NC State,,404;104
+PITCH (169),1807987,10556,R1,3/17/2019,25 Carrie Eberle,R-Hand,3 Sam Russ,L-Hand,Screw Ball,DOWNM,,Ball,Walk,3--1,,,,1 Out,,,6. Inning,Virginia Tech,NC State,,403;458
+PITCH (170),1818560,16284,R1,3/17/2019,25 Carrie Eberle,R-Hand,28 Brigette Nordberg,R-Hand,Curve Ball,MR,,Ball in Play,,0--0,3B3,Fielders Choice,,2 Out,,,6. Inning,Virginia Tech,NC State,193;258,378;294
+PITCH (171),1834861,9791,R1,3/17/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Rise Ball,LEFTM,,Strike Called,0--1,0--0,,,,2 Out,,,6. Inning,Virginia Tech,NC State,,98;286
+PITCH (172),1844668,9468,R1,3/17/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Curve Ball,MR,,Foul,0--2,0--1,,,,2 Out,,,6. Inning,Virginia Tech,NC State,,393;268
+PITCH (173),1854154,10083,R1,3/17/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Curve Ball,LEFTM,,Ball,1--2,0--2,,,,2 Out,,,6. Inning,Virginia Tech,NC State,,48;236
+PITCH (174),1864254,12730,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,10 Logan Morris,R-Hand,Drop Ball,ML,,Ball in Play,,1--2,2B3,Ground Out,,0 Out,,,6. Inning,Virginia Tech,NC State,295;211,140;292
+PITCH (175),1877001,8247,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,18 Mackenzie Lawter,R-Hand,Curve Ball,DOWNM,,Ball,1--0,0--0,,,,0 Out,,,7. Inning,NC State,Virginia Tech,,410;431
+PITCH (176),1885265,8463,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,18 Mackenzie Lawter,R-Hand,Rise Ball,LM,,Strike Called,1--1,1--0,,,,0 Out,,,7. Inning,NC State,Virginia Tech,,247;316
+PITCH (177),1893744,9565,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,18 Mackenzie Lawter,R-Hand,Curve Ball,UPM,,Ball,2--1,1--1,,,,0 Out,,,7. Inning,NC State,Virginia Tech,,226;22
+PITCH (178),1903326,9968,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,18 Mackenzie Lawter,R-Hand,Drop Ball,ML,,Strike Called,2--2,2--1,,,,0 Out,,,7. Inning,NC State,Virginia Tech,,152;208
+PITCH (179),1913311,11857,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,18 Mackenzie Lawter,R-Hand,Screw Ball,DOWNM,,Strike Swinging,Strikeout,2--2,,,,1 Out,,,7. Inning,NC State,Virginia Tech,,373;406
+PITCH (180),1925185,12875,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,29 Maddi Banks,L-Hand,Rise Ball,MR,,Foul,0--1,0--0,,,,1 Out,Slap Attempt,,7. Inning,NC State,Virginia Tech,,391;287
+PITCH (181),1938076,11904,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,29 Maddi Banks,L-Hand,Screw Ball,MR,,Strike Called,0--2,0--1,,,,1 Out,Bunt Attempt,,7. Inning,NC State,Virginia Tech,,312;250
+PITCH (182),1949997,9477,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,29 Maddi Banks,L-Hand,Drop Ball,DOWNM,,Ball,1--2,0--2,,,,1 Out,,,7. Inning,NC State,Virginia Tech,,453;473
+PITCH (183),1959490,10903,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,29 Maddi Banks,L-Hand,Rise Ball,LM,,Strike Swinging,Strikeout,1--2,,,,2 Out,Slap Attempt,,7. Inning,NC State,Virginia Tech,,238;350
+PITCH (184),1970410,9293,R1,3/17/2019,25 Devin Wallace,R-Hand,9 Al Velazquez,L-Hand,Rise Ball,LEFTM,,Ball,Hit By Pitch,0--0,,,,2 Out,,,7. Inning,NC State,Virginia Tech,,17;136
+PITCH (185),1979719,7824,R1,3/17/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Screw Ball,UPM,,Ball,1--0,0--0,,,,2 Out,,,7. Inning,NC State,Virginia Tech,,233;89
+PITCH (186),1987559,8841,R1,3/17/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Rise Ball,UPM,,Ball,2--0,1--0,,,,2 Out,,,7. Inning,NC State,Virginia Tech,,359;94
+PITCH (187),1996416,11104,R2,3/17/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Drop Ball,UPM,,WP-PB,3--0,2--0,,,,2 Out,,,7. Inning,NC State,Virginia Tech,,120;56
+PITCH (188),2007537,10039,R12,3/17/2019,25 Devin Wallace,R-Hand,4 Darby Trull,L-Hand,Screw Ball,DOWNM,,Ball,Walk,3--0,,,,2 Out,,,7. Inning,NC State,Virginia Tech,,446;434
+PITCH (189),2017593,12991,Bases Empty,3/17/2019,25 Devin Wallace,R-Hand,13 Caitlyn Nolan,R-Hand,Drop Ball,MM,,Ball in Play,,0--0,SLF,Fly Out,,0 Out,,,7. Inning,NC State,Virginia Tech,161;223,278;225
+PITCH (190),2030600,8982,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,34 Skylar Johnston,R-Hand,Drop Ball,DOWNM,,Ball,1--0,0--0,,,,0 Out,,,7. Inning,Virginia Tech,NC State,,233;479
+PITCH (191),2039598,14651,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,34 Skylar Johnston,R-Hand,Drop Ball,LM,,Ball in Play,,1--0,SS3,Ground Out,,1 Out,,,7. Inning,Virginia Tech,NC State,197;245,209;358
+PITCH (192),2054266,9161,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Drop Ball,DOWNM,,Ball,1--0,0--0,,,,1 Out,,,7. Inning,Virginia Tech,NC State,,195;433
+PITCH (193),2063444,9928,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Rise Ball,ML,,Foul,1--1,1--0,,,,1 Out,,,7. Inning,Virginia Tech,NC State,,122;287
+PITCH (194),2073389,9196,Bases Empty,3/17/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Drop Ball,UPM,,Ball,2--1,1--1,,,,1 Out,,,7. Inning,Virginia Tech,NC State,,290;82
+PITCH (195),2082601,16251,R1,3/17/2019,25 Carrie Eberle,R-Hand,13 Randi Farricker,R-Hand,Curve Ball,LM,,Ball in Play,,2--1,2B3,Single,,1 Out,,,7. Inning,Virginia Tech,NC State,252;244,281;329
+PITCH (196),2098869,9053,R1,3/17/2019,25 Carrie Eberle,R-Hand,2 Jessica Monroe,R-Hand,Drop Ball,LEFTM,,Ball,1--0,0--0,,,,1 Out,,,7. Inning,Virginia Tech,NC State,,40;131
+PITCH (197),2107939,15822,R1,3/17/2019,25 Carrie Eberle,R-Hand,2 Jessica Monroe,R-Hand,Curve Ball,ML,,Ball in Play,,1--0,2B3,Fielders Choice,,2 Out,,,7. Inning,Virginia Tech,NC State,288;208,148;270
+PITCH (198),2123777,9752,R1,3/17/2019,25 Carrie Eberle,R-Hand,42 Angie Rizzi,R-Hand,Curve Ball,LEFTM,,Strike Called,0--1,0--0,,,,2 Out,,,7. Inning,Virginia Tech,NC State,,96;332
+PITCH (199),2133546,9195,R1,3/17/2019,25 Carrie Eberle,R-Hand,42 Angie Rizzi,R-Hand,Drop Ball,LEFTM,,Ball,1--1,0--1,,,,2 Out,,,7. Inning,Virginia Tech,NC State,,81;218
+PITCH (200),2142758,9291,R1,3/17/2019,25 Carrie Eberle,R-Hand,42 Angie Rizzi,R-Hand,Curve Ball,DOWNM,,Strike Swinging,1--2,1--1,,,,2 Out,,,7. Inning,Virginia Tech,NC State,,257;453
+PITCH (201),2152065,17897,R1,3/17/2019,25 Carrie Eberle,R-Hand,42 Angie Rizzi,R-Hand,,LEFTM,,Strike Called,Strikeout,1--2,,,,2 Out,,,7. Inning,Virginia Tech,NC State,,94;300
