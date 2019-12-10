@@ -9,6 +9,7 @@ from sklearn.svm import SVR
 from sklearn import preprocessing
 from matplotlib import style
 import argparse
+import matplotlib.patches as mpatches
 style.use('ggplot')
 
 sys.path.append('../utilities/')
@@ -18,6 +19,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--csv", type=str, default = "../CSVData/04.13.2019vsUVAGM2.csv", help = "file path to CSV from game")
     parser.add_argument("--output", type =str, default = '../output/default.pdf', help = "file path to where we will output")
+    parser.add_argument("--name", type=str, default = "Game Chart", help = "What the User wishes to call the plot outputted.")
     opt = parser.parse_args()
     print(opt)
     
@@ -82,6 +84,14 @@ def plot_svc_decision_function(model, ax=None, plot_support=True):
 
 # Save our Figure
 plt.scatter(vec[:, 0], vec[:, 1], c=frame.Result, s=50, cmap='bwr')
+plt.xlabel('XOS X Value')
+plt.ylabel('XOS Y Value')
+plt.title(opt.name)
+red_patch = mpatches.Patch(color='red', label='Strikes')
+blue_patch = mpatches.Patch(color='blue', label='Balls')
+green_patch = mpatches.Patch(color='green', label='Strike Zone')
+purple_patch = mpatches.Patch(color='purple', label='Predicted Strike Zone')
+lgd = plt.legend(handles=[red_patch, blue_patch, green_patch, purple_patch], bbox_to_anchor=(1.05, 1), loc='upper left', borderaxespad=0.)
 plot_svc_decision_function(clf)
-plt.savefig(opt.output)
+plt.savefig(opt.output, bbox_extra_artists=(lgd,), bbox_inches='tight')
     
