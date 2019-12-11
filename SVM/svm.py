@@ -77,10 +77,10 @@ def plot_svc_decision_function(model, ax=None, plot_support=True):
                    s=300, linewidth=1, facecolors='none');
     ax.set_xlim(xlim)
     ax.set_ylim(ylim)
-    ax.hlines(y=50, xmin=60, xmax=185, linewidth=2, color='g', alpha = 0.3)
-    ax.hlines(y=190, xmin=60, xmax=185, linewidth=2, color='g', alpha = 0.3)
-    ax.vlines(x=60, ymin=50, ymax=190, linewidth=2, color='g', alpha = 0.3)
-    ax.vlines(x=185, ymin=50, ymax=190, linewidth=2, color='g', alpha = 0.3)
+    ax.hlines(y=50, xmin=60, xmax=185, linewidth=2, color='g', alpha = 0.8)
+    ax.hlines(y=190, xmin=60, xmax=185, linewidth=2, color='g', alpha = 0.8)
+    ax.vlines(x=60, ymin=50, ymax=190, linewidth=2, color='g', alpha = 0.8)
+    ax.vlines(x=185, ymin=50, ymax=190, linewidth=2, color='g', alpha = 0.8)
 
 # Save our Figure
 plt.scatter(vec[:, 0], vec[:, 1], c=frame.Result, s=50, cmap='bwr')
